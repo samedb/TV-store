@@ -25,7 +25,7 @@ SECRET_KEY = 'icwdkg#9*p+1)gtvp7b3^lr0)&rz(7wp=zs7pai=guy0z$d!ai'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -56,7 +56,10 @@ REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
         'rest_framework.authentication.TokenAuthentication',
         # 'rest_framework.authentication.SessionAuthentication',
-    ]
+    ],
+     'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',
+    )
 }
 
 AUTH_USER_MODEL = 'TVStore_API.CustomUser'
