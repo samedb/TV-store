@@ -18,7 +18,7 @@
         "Dimenzije": "Sa postoljem: 724,3 mm x 480,4 mm x 178,8 mm\r\nBez postolja: 724,3 mm x 425 mm x 87,8 mm",
         "cena": 16990,
         "naziv_proizvoda": "\n32\" LED Alpha 32G7NHS, HD Ready\n\n\n\nSKU: 143264\n",
-        "proizvodjac": "Alpha",
+        "proizvodjac": "ALPHA",
         "opis": "\n32G7NHS\u00a0 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/26/143264_5ebbf61a22bd7.jpg",
         "Dijagonala": 32
@@ -47,9 +47,9 @@
         "Dodatne prednosti": "H.265, CSOT/IPS/OPENCELL \t\t",
         "cena": 14990,
         "naziv_proizvoda": "\n32\" LED Elit L-3217ST2, HD Ready\n\n\n\nSKU: 144059\n",
-        "proizvodjac": "Elit",
+        "proizvodjac": "ELIT",
         "opis": "\n                            Uz televizor Elit L-3217ST2 u\u017eiva\u0107ete u jasnoj slici koju vam donosi visoki kontrast. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em Elit televizoru. Vesa standard omogu\u0107ava vam da televizor prilagodite svojim potrebama, a konektori USB i HDMI da se pove\u017eete sa ostalim ure\u0111ajima, tako da mo\u017eete da u\u017eivate u omiljenim filmovima, serijama i muzici. Kupovinom televizora ostvarujete i garanciju u trajanju od 5 godina.                        ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-4.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-2.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-3.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-5.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-1.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/35/8643522-1.jpg"
     },
     {
         "EAN kod": "8606018400881",
@@ -74,8 +74,9 @@
         "Dimenzije": "Dimenzije sa postoljem (\u0160xVxD): 73,5x48x21cm, Dimenzije bez postolja (\u0160xVxD): 73,5x43,5x8cm, Raspon postolja (\u0160xD): 63x21cm",
         "cena": 13990,
         "naziv_proizvoda": "\n32\" LED Favorit 32DN4P4T2, HD Ready-\n\n\n\nSKU: 144110\n",
-        "proizvodjac": "IDK",
-        "opis": "\nUz televizor Favorit 32DN4P4T2HD u\u017eiva\u0107ete u jasnoj slici koju vam omogu\u0107ava DLED tehnologija i visoki kontrast, a ugra\u0111eni zvu\u010dnici ukupne snage 20W pobrinuli su se za neverovatan zvuk. Tako\u0111e uz 3 HDMI i 2 USB konektora, lako \u0107ete se povezati sa ostalim ure\u0111ajima kako biste gledali va\u0161e omiljene sadr\u017eaje. Uz Vesa standard, Favorit TV mo\u017eete postaviti na zid i prilagoditi ga va\u0161im potrebama. "
+        "proizvodjac": "FAVORIT",
+        "opis": "\nUz televizor Favorit 32DN4P4T2HD u\u017eiva\u0107ete u jasnoj slici koju vam omogu\u0107ava DLED tehnologija i visoki kontrast, a ugra\u0111eni zvu\u010dnici ukupne snage 20W pobrinuli su se za neverovatan zvuk. Tako\u0111e uz 3 HDMI i 2 USB konektora, lako \u0107ete se povezati sa ostalim ure\u0111ajima kako biste gledali va\u0161e omiljene sadr\u017eaje. Uz Vesa standard, Favorit TV mo\u017eete postaviti na zid i prilagoditi ga va\u0161im potrebama. ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/00/8660034.jpg"
     },
     {
         "EAN kod": "8806098141470",
@@ -98,7 +99,8 @@
         "Dodatne prednosti": "Game TV, Virtual Surround",
         "cena": 22990,
         "naziv_proizvoda": "\n32\" LED LG 32LK510BPLD, HD Ready\n\n\n\nSKU: 133972\n",
-        "proizvodjac": "LG"
+        "proizvodjac": "LG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628837.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628837-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628837-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628837-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628837-1.jpg"
     },
     {
         "EAN kod": "3858892620137",
@@ -121,30 +123,8 @@
         "cena": 13990,
         "naziv_proizvoda": "\n32\" LED NOA N32LHX, HD Ready\n\n\n\nSKU: 144599\n",
         "proizvodjac": "NOA",
-        "opis": "\n                            Uz televizor NOA  u\u017eiva\u0107ete u kvalitetnoj slici koju vam donosi visoki kontrast. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em NOA televizoru. Konektori USB i HDMI vam omogu\u0107avaju da se pove\u017eete sa ostalim ure\u0111ajima, tako da mo\u017eete da u\u017eivate u omiljenim filmovima, serijama i muzici.                        "
-    },
-    {
-        "EAN kod": "8718863011225",
-        "URL proizvo\u0111a\u010da": "https://www.philips.it/c-p/32PFS4132_12/4100-series-tv-led-ultra-sottile-full-hd-con-digital-crystal-clear/specifications",
-        "Model": "32PFS4132/12",
-        "Dijagonala": 32,
-        "Rezolucija": "1920 x 1080 (Full HD); 1080p",
-        "Ekran": "LED",
-        "Tip Tunera": "Digitalni",
-        "Energetski razred": "A",
-        "Osvetljenje": "280  cd/m2",
-        "Povezivanje": "HDMI; USB",
-        "VESA Monta\u017ea": "100 x 100 mm",
-        "Boja": "Crna",
-        "DVB-C": "Da",
-        "DVB-T2": "Da",
-        "Zvu\u010dnici": "16 W (RMS)",
-        "Masa": "4,85  Kg sa postoljem",
-        "Dimenzije": "726.5mm x 479mm x 184.6mm (sa postoljem)",
-        "cena": 24990,
-        "naziv_proizvoda": "\n32\" LED Philips 32PFS4132/12, Full HD\n\n\n\nSKU: 127858\n",
-        "proizvodjac": "Philips",
-        "opis": "\n                            Sve sto vam treba u jednom kompaktnom dizajnu Philips 32PFS4132/12 LED televizor sa Full HD rezolucijom (1920x1080). Karakteristike kao \u0161to su priklju\u010dak za USB i dva priklju\u010dka za HDMI, nave\u0161\u0107e vas da izaberete upravo 32PFS4132/12 model televizora. Uz vesa standard 100x100mm mo\u0107i \u0107ete va\u0161 philips tv da oka\u010dite na zid i u\u017eivate u omiljenim sadr\u017eajama iz bilo kog ugla.                        "
+        "opis": "\n                            Uz televizor NOA  u\u017eiva\u0107ete u kvalitetnoj slici koju vam donosi visoki kontrast. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em NOA televizoru. Konektori USB i HDMI vam omogu\u0107avaju da se pove\u017eete sa ostalim ure\u0111ajima, tako da mo\u017eete da u\u017eivate u omiljenim filmovima, serijama i muzici.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/16/8651692.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/16/8651692-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/16/8651692-2.jpg"
     },
     {
         "EAN kod": "8606020055239",
@@ -159,9 +139,9 @@
         "DVB-T2": "da",
         "cena": 13990,
         "naziv_proizvoda": "\n32\" LED SkyTech 32T2WWT5, HD Ready\n\n\n\nSKU: 149469\n",
-        "proizvodjac": "SkyTech",
+        "proizvodjac": "SKYTECH",
         "opis": "\n32T2WWT5\u00a0 ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/37/8663728.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/37/8663728-2.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/37/8663728-1.jpg",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/37/8663728.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/37/8663728-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/37/8663728-1.jpg",
         "Dijagonala": 32
     },
     {
@@ -184,7 +164,31 @@
         "Dimenzije": "732mm x 475mm x 205mm\n",
         "cena": 13990,
         "naziv_proizvoda": "\n32\" LED Vivax TV-32LE79T2, HD Ready\n\n\n\nSKU: 148592\n",
-        "proizvodjac": "Vivax"
+        "proizvodjac": "VIVAX",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/16/8631615.jpg"
+    },
+    {
+        "EAN kod": "8606019601171",
+        "Model": "32DSA314H",
+        "Dijagonala": 32,
+        "Rezolucija": "1366x768(HD Ready); 768p\n",
+        "Ekran": "LED\n",
+        "Tip Tunera": "Digitalni\n",
+        "Energetski razred": "A+",
+        "Povezivanje": "HDMI, USB, CI+, AV In, Coax Out\n",
+        "VESA Monta\u017ea": "100x100",
+        "Boja": "Crna",
+        "Ostalo": "PVR, Hotel mode, H.265\n",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "8W+8W, DBX-TV Total Sound\n",
+        "Dimenzije": "Sa postoljem: 731.8 x 184.5 x 492.4 Bez postolja: 731.8 x 82.3 x 455\n",
+        "cena": 13990,
+        "naziv_proizvoda": "\n32\" LED Vox 32DSA314H, HD Ready\n\n\n\nSKU: 145035\n",
+        "proizvodjac": "VOX",
+        "opis": "\n                            Uz televizor Vox 32DSA314H u\u017eiva\u0107ete u jasnoj slici koju vam donosi visoki kontrast. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em Vox televizoru. Vesa standard omogu\u0107ava vam da televizor prilagodite svojim potrebama, a konektori USB i HDMI da se pove\u017eete sa ostalim ure\u0111ajima, tako da mo\u017eete da u\u017eivate u omiljenim filmovima, serijama i muzici.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/74/8637420.jpg"
     },
     {
         "EAN kod": "8606018400669",
@@ -211,8 +215,9 @@
         "Dodatne prednosti": "PVR",
         "cena": 16990,
         "naziv_proizvoda": "\n32\" Smart Android LED Favorit 32DN4M3T2, HD Ready\n\n\n\nSKU: 144127\n",
-        "proizvodjac": "IDK",
-        "opis": "\n                            Uz Smart televizor Favorit 32DN4M3T2A u\u017eiva\u0107ete u jasnoj slici koju vam omogu\u0107ava digitalni T2 tjuner i HD rezolucija u kombinaciji sa visokim kontrastom. Tako\u0111e, pored klasi\u010dnih konektora HDMI i USB, ovaj televizor poseduje integrisan Wifi, pa \u0107ete mo\u0107i u svakom trenutku da gledate va\u0161e omiljene filmove i serije. Ovaj model tako\u0111e poseduje i Android TV operativni sistem pomo\u0107u kojeg mo\u017eete da preuzmete va\u0161e omiljene aplikacije sa Play prodavnice. \n"
+        "proizvodjac": "FAVORIT",
+        "opis": "\n                            Uz Smart televizor Favorit 32DN4M3T2A u\u017eiva\u0107ete u jasnoj slici koju vam omogu\u0107ava digitalni T2 tjuner i HD rezolucija u kombinaciji sa visokim kontrastom. Tako\u0111e, pored klasi\u010dnih konektora HDMI i USB, ovaj televizor poseduje integrisan Wifi, pa \u0107ete mo\u0107i u svakom trenutku da gledate va\u0161e omiljene filmove i serije. Ovaj model tako\u0111e poseduje i Android TV operativni sistem pomo\u0107u kojeg mo\u017eete da preuzmete va\u0161e omiljene aplikacije sa Play prodavnice. \n",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/77/8627718.jpg"
     },
     {
         "EAN kod": "8606017160977",
@@ -241,7 +246,7 @@
         "Dimenzije": "73.5x48x21cm",
         "cena": 17990,
         "naziv_proizvoda": "\n32\" Smart LED Fox 32DLE178, HD Ready\n\n\n\nSKU: 127769\n",
-        "proizvodjac": "Fox",
+        "proizvodjac": "FOX",
         "opis": "\n32\" Smart LED Fox 32DLE178, HD Ready ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/09/8660982.jpg"
     },
@@ -268,7 +273,8 @@
         "Zvu\u010dnici": "10W+10W",
         "cena": 34990,
         "naziv_proizvoda": "\n32\" Smart LED LG 32LM6300PLA, Full HD\n\n\n\nSKU: 140415\n",
-        "proizvodjac": "LG"
+        "proizvodjac": "LG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/13/8661384.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/13/8661384-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/13/8661384-1.jpg"
     },
     {
         "EAN kod": "8806098382910",
@@ -295,7 +301,8 @@
         "Dodatne prednosti": "Netflix kompatibilnost\nAmazon kompatibilnost\nMobile app (LG TV Plus)\nE-uputstvo\nEPG\nTitl\nTeletekst",
         "cena": 31990,
         "naziv_proizvoda": "\n32\" Smart LED LG 32LM630BPLA, HD Ready\n\n\n\nSKU: 140541\n",
-        "proizvodjac": "LG"
+        "proizvodjac": "LG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/98/8659889.jpg"
     },
     {
         "EAN kod": "4548736053588",
@@ -315,7 +322,8 @@
         "Dimenzije": "Bez postolja: 73.1 x 44.2 x 7.0(1.30) cm\nSa postoljem: 73.1 x 49.0 x 18.7 cm",
         "cena": 39990,
         "naziv_proizvoda": "\n32\" Smart LED Sony KDL-32WE615BAEP, HD Ready\n\n\n\nSKU: 128068\n",
-        "proizvodjac": "Sony"
+        "proizvodjac": "SONY",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/61/6826107.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/61/6826107-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/61/6826107-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/61/6826107-2.jpg"
     },
     {
         "EAN kod": "8606109562146",
@@ -339,8 +347,56 @@
         "Dodatne prednosti": "AV ulaz, CI slot, digitalni audio izlaz, RF, slu\u0161alice od 3,5 mm\r\nAutomatska i ru\u010dna pretraga\r\nOmiljeni kanali\r\nHotel mod\r\nTeletext\r\nUSB Media player\r\nUSB ClElektronski programski vodi\u010d\r\nRoditeljska brava\r\n100 analognih programa\r\n1000 digitalnih programa\r\nNapon: AC 100 V - 240 V\r\nFrekvencija: 50 Hz / 60 Hzone function",
         "cena": 17990,
         "naziv_proizvoda": "\n32\"smart Alpha 32D5THS\n\n\n\nSKU: 143267\n",
-        "proizvodjac": "Alpha",
-        "opis": "\n32D5THS "
+        "proizvodjac": "ALPHA",
+        "opis": "\n32D5THS ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/26/143267_5ebbf63450947.jpg"
+    },
+    {
+        "EAN kod": "8606019603212",
+        "Model": "39ADS316B",
+        "Dijagonala": 39,
+        "Rezolucija": "1366 x 768 px",
+        "SMART": "Da",
+        "Android OS": "Android 7.1",
+        "Ekran": "Direct LED slim",
+        "Zakrivljeni ekran": "Ne",
+        "Tip Tunera": "DVB-T2/C/S2",
+        "Wireless": "Da",
+        "Povezivanje": "WIFI, Lan, 2xUSB, 3XHdmi",
+        "VESA Monta\u017ea": "200 x 200",
+        "Boja": "Crna",
+        "Ostalo": "AV ulaz\r\nVGA\r\nCI+\r\nSPDIF izlaz\r\nIzlaz za slu\u0161alice",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "2 x 6 W RMS",
+        "Masa": "5,4 kg",
+        "Dimenzije": "Sa postoljem: 890 mm x 580 mm x 125 mm\r\nBez postolja: 890 mm x 511 mm x 75 mm",
+        "cena": 24990,
+        "naziv_proizvoda": "\n39'' Vox Smart 39ADS316B, Wi Fi\n\n\n\nSKU: 150571\n",
+        "proizvodjac": "VOX",
+        "opis": "\nVox 39ADS316B pru\u017ea savr\u0161en prikaz u punom koloritu. Ovaj TV omogu\u0107uje korisniku da u\u017eiva u omiljenim multimedijalnim sadr\u017eajima i komunikaciju putem dostupnih Smart aplikacija. Dodatna prednost je i jednostavna upotreba Wi Fi veze i mno\u0161tvo konektora za lako uparivanje sa ostalim ure\u0111ajima. ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/150/57/150571_5e7c8cccd2b3a.jpg"
+    },
+    {
+        "EAN kod": "4897018982963",
+        "Model": "BLT40F1D",
+        "Dijagonala": 40,
+        "Rezolucija": "1920x1080 (Full HD); 1080p",
+        "Ekran": "LED",
+        "Tip Tunera": "Digitalni",
+        "Energetski razred": "A",
+        "Povezivanje": "HDMI, USB, SCART, CI slot, PC VGA, Earphone out",
+        "VESA Monta\u017ea": "200x200",
+        "Boja": "Crna",
+        "DVB-C": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "6W+6W",
+        "cena": 21990,
+        "naziv_proizvoda": "\n40\" LED Blueberry BLT40F1D, Full HD\n\n\n\nSKU: 143904\n",
+        "proizvodjac": "BLUEBERRY",
+        "opis": "\n                            Uz televizor Blueberry BLT40F1D u\u017eiva\u0107ete u jasnoj slici koju vam donosi Full HD rezolucija u kombinaciji sa visokim kontrastom. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em Blueberry televizoru. Pomo\u0107u USB priklju\u010dka na TV ure\u0111aju, mo\u017eete povezati svoj USB stick i gledati filmove, slike, slu\u0161ati muziku...Sasvim brzo i lako pomo\u0107u HDMI priklju\u010dka mo\u017eete povezati svoje ure\u0111aje i tako u\u017eivati u zvuku i slici sa va\u0161eg video plejera ili u sadr\u017eajima sa va\u0161eg ra\u010dunara.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/64/8646406.jpg"
     },
     {
         "EAN kod": "3871250009214",
@@ -362,31 +418,9 @@
         "Dodatne prednosti": "Hotel mode, HEVC H.265\n",
         "cena": 21990,
         "naziv_proizvoda": "\n40\" LED Elit L-4017ST2, Full HD\n\n\n\nSKU: 144062\n",
-        "proizvodjac": "Elit",
-        "opis": "\n                            Televizor Elit L-4017ST2 Vam omogu\u0107ava jasnu sliku koju donosi Full HD rezolucija u kombinaciji sa visokim kontrastom. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em Elit televizoru. Pomo\u0107u USB priklju\u010dka na TV ure\u0111aju, mo\u017eete povezati svoj USB stick i gledati filmove, slike, slu\u0161ati muziku...Sasvim brzo i lako pomo\u0107u HDMI priklju\u010dka mo\u017eete povezati svoje ure\u0111aje i tako u\u017eivati u zvuku i slici sa va\u0161eg video plejera ili u sadr\u017eajima sa va\u0161eg ra\u010dunara.                        "
-    },
-    {
-        "EAN kod": "8606018400935",
-        "Model": "40DN4P4T2",
-        "Dijagonala": 40,
-        "Rezolucija": "1920x1080 (Full HD); 1080p",
-        "Ekran": "LED",
-        "Tip Tunera": "Digitalni",
-        "Vreme odziva": "8 ms",
-        "Osvetljenje": "250 cd/m2",
-        "Povezivanje": "Scart,HDMIx3,VGA,USB x2, AV, Podr\u017eava CI+, slu\u0161alice, koaksijalni audio",
-        "VESA Monta\u017ea": "200x100",
-        "Boja": "Crna",
-        "DVB-T2": "Da",
-        "Zvu\u010dnici": "10W + 10W\n",
-        "Masa": "6kg",
-        "Dimenzije": "Dimenzije sa postoljem (\u0160?V?D): 90x56x21 cm\nDimenzije bez postolja (\u0160?V?D): 90x51,5x8,5 cm\n",
-        "Dodatne prednosti": "Hotelski re\u017eim.",
-        "cena": 23322,
-        "naziv_proizvoda": "\n40\" LED Favorit 40DN4P4T2, Full HD\n\n\n\nSKU: 147846\n",
-        "proizvodjac": "Favorit",
-        "opis": "\n                            Uz televizor Favorit 40DN4P4T2 u\u017eiva\u0107ete u jasnoj slici koju vam omogu\u0107ava DLED tehnologija i visoki kontrast, a ugra\u0111eni zvu\u010dnici ukupne snage 20W pobrinuli su se za neverovatan zvuk. Tako\u0111e uz 3 HDMI i 2 USB konektora, lako \u0107ete se povezati sa ostalim ure\u0111ajima kako biste gledali va\u0161e omiljene sadr\u017eaje. Uz Vesa standard, Favorit TV mo\u017eete postaviti na zid i prilagoditi ga va\u0161im potrebama.                        ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/29/8662931.jpg"
+        "proizvodjac": "ELIT",
+        "opis": "\n                            Televizor Elit L-4017ST2 Vam omogu\u0107ava jasnu sliku koju donosi Full HD rezolucija u kombinaciji sa visokim kontrastom. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em Elit televizoru. Pomo\u0107u USB priklju\u010dka na TV ure\u0111aju, mo\u017eete povezati svoj USB stick i gledati filmove, slike, slu\u0161ati muziku...Sasvim brzo i lako pomo\u0107u HDMI priklju\u010dka mo\u017eete povezati svoje ure\u0111aje i tako u\u017eivati u zvuku i slici sa va\u0161eg video plejera ili u sadr\u017eajima sa va\u0161eg ra\u010dunara.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/67/8646782.jpg"
     },
     {
         "EAN kod": "4548736053595",
@@ -411,7 +445,8 @@
         "cena": 44990,
         "naziv_proizvoda": "\n40\" Smart LED SONY KDL40WE665BAEP, Full HD\n\n\n\nSKU: 128069\n",
         "proizvodjac": "SONY",
-        "opis": "\n                            Uz Sony KDL40WE665BAEP Smart televizor u\u017eiva\u0107ete u Full HD rezoluciji va\u0161ih omiljenih sadr\u017eaja. Uz Integrisan WiFi u svakom trenutku \u0107ete mo\u0107i da pristupite omiljenim filmovima i serijama, a uz USB i HDMI konektore lako \u0107ete se povezati sa drugim ure\u0111ajima.                        "
+        "opis": "\n                            Uz Sony KDL40WE665BAEP Smart televizor u\u017eiva\u0107ete u Full HD rezoluciji va\u0161ih omiljenih sadr\u017eaja. Uz Integrisan WiFi u svakom trenutku \u0107ete mo\u0107i da pristupite omiljenim filmovima i serijama, a uz USB i HDMI konektore lako \u0107ete se povezati sa drugim ure\u0111ajima.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/95/6829533.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/95/6829533-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/95/6829533-2.jpg"
     },
     {
         "EAN kod": "8606109562153",
@@ -434,8 +469,9 @@
         "Dodatne prednosti": "Roditeljska kontrola - spre\u010dava da deca gledaju programe koji nisu adekvatni za njihov uzrast",
         "cena": 27990,
         "naziv_proizvoda": "\n43\" Alpha televizor 43D5TFS\n\n\n\nSKU: 143268\n",
-        "proizvodjac": "televizor",
-        "opis": "\na "
+        "proizvodjac": "ALPHA",
+        "opis": "\na ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/26/143268_5ebbf6b2b568f.jpg"
     },
     {
         "EAN kod": "6921958643115",
@@ -454,8 +490,8 @@
         "Masa": "7.5kg",
         "cena": 22990,
         "naziv_proizvoda": "\n43\" LED Max 43MT300, Full HD\n\n\n\nSKU: 148606\n",
-        "proizvodjac": "Max",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398-1.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398-3.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398-2.jpg"
+        "proizvodjac": "MAX",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/53/8665398-2.jpg"
     },
     {
         "EAN kod": "8606020052726",
@@ -478,8 +514,9 @@
         "Dimenzije": "Bez postolja: 966.5(mm) x558.7(mm) x55.6(mm); \nSa postoljem: 966.5(mm) x597.9(mm) x89.2(mm)",
         "cena": 23990,
         "naziv_proizvoda": "\n43\" LED SkyTech 43WWT5, Full HD\n\n\n\nSKU: 144879\n",
-        "proizvodjac": "SkyTech",
-        "opis": "\n                            SkyTech 43WWT5 Vam omogu\u0107ava da u\u017eivate u Full HD rezoluciji va\u0161ih omiljenih sadr\u017eaja na LED ekranu od 43\". Uz T2 tjuner i Full HD rezoluciju, slika \u0107e biti vi\u0161e nego jasna. Klasi\u010dni konektori USB i HDMI olak\u0161a\u0107e vam povezivanje sa drugim ure\u0111ajima, kako biste u svakom trenutku gledali omiljene filmove i serije.                        "
+        "proizvodjac": "SKYTECH",
+        "opis": "\n                            SkyTech 43WWT5 Vam omogu\u0107ava da u\u017eivate u Full HD rezoluciji va\u0161ih omiljenih sadr\u017eaja na LED ekranu od 43\". Uz T2 tjuner i Full HD rezoluciju, slika \u0107e biti vi\u0161e nego jasna. Klasi\u010dni konektori USB i HDMI olak\u0161a\u0107e vam povezivanje sa drugim ure\u0111ajima, kako biste u svakom trenutku gledali omiljene filmove i serije.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/44/8654420.jpg"
     },
     {
         "EAN kod": "8606109562191",
@@ -502,28 +539,38 @@
         "Dodatne prednosti": "HbbTV, HDMI ARC / CEC, Multiscreen\r\nHotelski re\u017eim\r\nAutomatska i ru\u010dna pretraga\r\nElektronski programski vodi\u010d\r\nRoditeljska kontrola\r\nSleep-Timer\r\nUSB Media Player\r\nFunkcija USB klona\r\nTeletekst",
         "cena": 31990,
         "naziv_proizvoda": "\n43\" smart Alpha televizor  43G7NUS\n\n\n\nSKU: 143291\n",
-        "proizvodjac": "",
-        "opis": "\n43G7NUS "
+        "proizvodjac": "ALPHA",
+        "opis": "\n43G7NUS ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/29/143291_5ebbf6972b872.jpg"
     },
     {
-        "EAN kod": "8606108893159",
-        "Model": "JH43TS180S",
+        "EAN kod": "8606018400928",
+        "Model": "43DN4JM2T2A",
         "Dijagonala": 43,
         "Rezolucija": "1920x1080 (Full HD), 1080p",
         "SMART": "Da",
-        "Android OS": "Da, Android 7",
+        "Android OS": "Da, Android 7.0",
         "Ekran": "LED",
         "Tip Tunera": "Digitalni",
+        "Vreme odziva": "8ms",
+        "Energetski razred": "A+",
+        "Osvetljenje": "250cd/m2",
         "Wireless": "Ugra\u0111en",
-        "Povezivanje": "3xHDMI, 2xUSB, LAN, CI slot, YPbPr In",
+        "Povezivanje": "3xHDMI, 2xUSB, Scart, Vga, CI+, izlaz za slu\u0161alice, koaksijalni audio, Wi-Fi",
+        "VESA Monta\u017ea": "200x100",
         "Boja": "Crna",
-        "Ostalo": "CPU: ARM Cortex-A53 Quad Core 804MHz GPU Mali-T450MP2/dual-core\nOS: Android 7.0  1GB DDR + 8GB EMMC\n",
+        "Ostalo": "Brzina: Quad core 1.2GHz\nMemorija: memory 8GB, RAM 1GB\nJezik: Makedonski, Srpski, Engleski, Hrvatski.\n",
         "DVB-C": "Da",
+        "DVB-S2": "Da",
         "DVB-T2": "Da",
-        "cena": 30990,
-        "naziv_proizvoda": "\n43\" Smart Android LED Aiwa JH43TS180S, Full HD\n\n\n\nSKU: 148600\n",
-        "proizvodjac": "Aiwa",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/38/8663826.jpg"
+        "Zvu\u010dnici": "10W + 10W",
+        "Dimenzije": "Dimenzije sa postoljem (\u0160?V?D): 966x596x176,8 mm",
+        "Dodatne prednosti": "PVR funkcija za snimanje sadr\u017eaja: da\nPodr\u017eava aplikacije na Google Play-u: da\nOstalo: Podr\u017eava be\u017ei\u010dnu tastaturu; Hotelski re\u017eim; Vi\u0161ejezi\u010dni meni\n",
+        "cena": 24990,
+        "naziv_proizvoda": "\n43\" Smart Android LED Favorit 43DN4JM2T2A, Full HD\n\n\n\nSKU: 147563\n",
+        "proizvodjac": "FAVORIT",
+        "opis": "\n                            Uz televizor Favorit 43DN4JM2T2A u\u017eiva\u0107ete u jasnoj slici \u017eivopisnih boja, koju vam omogu\u0107ava Full HD rezolucija. Tako\u0111e, poseduje HDMI i USB konektore, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete sa drugim ure\u0111ajima i gledate va\u0161e omiljene filmove i serije. Ovaj televizor poseduje i integrisan WiFi, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete na internet i gledate omiljene filmove u svakom trenutku.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/32/8663246.jpg"
     },
     {
         "EAN kod": "8606017161462",
@@ -543,9 +590,9 @@
         "Dimenzije": "97x61x22cm",
         "cena": 26990,
         "naziv_proizvoda": "\n43\" Smart Android LED Fox 43DLE358, Full HD\n\n\n\nSKU: 148561\n",
-        "proizvodjac": "Fox",
+        "proizvodjac": "FOX",
         "opis": "\n43DLE358 ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940-2.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940-3.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940-1.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664940-1.jpg"
     },
     {
         "EAN kod": "3858892620120",
@@ -568,8 +615,9 @@
         "Dimenzije": "Bez stalka: 970 * 75 * 564mm; Sa stalkom: 970 * 217 * 619mm;",
         "cena": 31990,
         "naziv_proizvoda": "\n43\" Smart Android LED Noa N43LFS, Full HD\n\n\n\nSKU: 147848\n",
-        "proizvodjac": "Noa",
-        "opis": "\n                            Uz televizor NOA N43LFS u\u017eiva\u0107ete u jasnoj slici \u017eivopisnih boja, koju vam omogu\u0107ava Full HD rezolucija. Tako\u0111e, poseduje HDMI i USB konektore, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete sa drugim ure\u0111ajima i gledate va\u0161e omiljene filmove i serije. Ovaj televizor poseduje i integrisan WiFi, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete na internet i gledate omiljene filmove u svakom trenutku.                        "
+        "proizvodjac": "NOA",
+        "opis": "\n                            Uz televizor NOA N43LFS u\u017eiva\u0107ete u jasnoj slici \u017eivopisnih boja, koju vam omogu\u0107ava Full HD rezolucija. Tako\u0111e, poseduje HDMI i USB konektore, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete sa drugim ure\u0111ajima i gledate va\u0161e omiljene filmove i serije. Ovaj televizor poseduje i integrisan WiFi, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete na internet i gledate omiljene filmove u svakom trenutku.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/06/8650670.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/06/8650670-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/06/8650670-2.jpg"
     },
     {
         "EAN kod": "8606020055352",
@@ -582,9 +630,88 @@
         "Tip Tunera": "DVB-C, DVB-T2",
         "cena": 26990,
         "naziv_proizvoda": "\n43\" Smart Android LED Skytech 43SWWT5, Full HD\n\n\n\nSKU: 149474\n",
-        "proizvodjac": "Skytech",
+        "proizvodjac": "SKYTECH",
         "opis": "\n43SWWT5 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/35/8663521.jpg"
+    },
+    {
+        "EAN kod": "8606019600051",
+        "Model": "43ADS311G\n",
+        "Dijagonala": 43,
+        "Rezolucija": "1920x1080 (Full HD); 1080p",
+        "SMART": "Da",
+        "Android OS": "Da, Verzija 4.4",
+        "Ekran": "Direct LED slim",
+        "Tip Tunera": "Digitalni",
+        "Energetski razred": "A",
+        "Wireless": "Ugra\u0111en",
+        "Povezivanje": "HDMI 3x, USB x2, AV ulaz, VGA, LAN, CI+, SPDIF izlaz, izlaz za slu\u0161alice",
+        "VESA Monta\u017ea": "200 x 200",
+        "Boja": "Siva",
+        "Ostalo": "Hotelski mod",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "2 x 8W RMS",
+        "Dodatne prednosti": "HEVC H.265, PVR, Hotel Mode, Multiscreen, YouTube, Facebook, Twitter",
+        "cena": 28990,
+        "naziv_proizvoda": "\n43\" Smart Android LED Vox 43ADS311G, Full HD\n\n\n\nSKU: 131649\n",
+        "proizvodjac": "VOX",
+        "opis": "\n                            Uz televizor Vox 43ADS311G u\u017eiva\u0107ete u jasnoj slici \u017eivopisnih boja, koju vam omogu\u0107ava Full HD rezolucija. Tako\u0111e, poseduje HDMI i USB konektore, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete sa drugim ure\u0111ajima i gledate va\u0161e omiljene filmove i serije. Ovaj televizor poseduje i integrisan WiFi, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete na internet i gledate omiljene filmove u svakom trenutku.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/43/8614380.jpg"
+    },
+    {
+        "EAN kod": "8806098142767",
+        "URL proizvo\u0111a\u010da": "https://www.lg.com/rs/televizori/lg-43UK6500MLA",
+        "Model": "43UK6500MLA + AN-MR18BA\n",
+        "Dijagonala": 32,
+        "Rezolucija": "3840*2160 4K UHD\n\n",
+        "SMART": "Da",
+        "Ekran": "LED",
+        "Tip Tunera": "DVB-T2/C/S2\n\n",
+        "Energetski razred": "A",
+        "Wireless": "Da",
+        "Povezivanje": "HDMI 4K/2K: 4(4K)\nUSB: 2\n\n\n\n",
+        "VESA Monta\u017ea": "Da",
+        "Bluetooth": "Da",
+        "Boja": "Siva",
+        "Ostalo": "LG UHD TV reprodukuje preciznije boje i omogu\u0107ava svima\nda u\u017eivaju u izvanrednoj slici, bez obzira na to gde sede.\nUltra osvetljenost vam omogu\u0107ava da u\u017eivate u \u017eivopisnijim slikama sa pove\u0107anom osvetljeno\u0161\u0107u tako \u0161to tamni delovi postaju tamniji, a svetli svetliji.",
+        "Napomena": "LED 43\" UHD+ MagicRemote controler AN-MR18BA, DLED, DVB-C/T2/S2, Active HDR, Wide Color Gamut, webOS Smart TV, Built-in Wi-Fi, Bluetooth, Ultra Surround, Two Pole Stand, Silver\n\n",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "cena": 49990,
+        "naziv_proizvoda": "\n43\" Smart LED Lg 43UK6500MLA, 4K Ultra HD + AN-MR18BA\n\n\n\nSKU: 132691\n",
+        "proizvodjac": "LG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/91/8659180.jpg"
+    },
+    {
+        "EAN kod": "8806098568857",
+        "URL proizvo\u0111a\u010da": "https://www.lg.com/rs/televizori/lg-43UM7000PLA",
+        "Model": "43UM7000PLA",
+        "Dijagonala": 43,
+        "Rezolucija": "3840x2160 (Ultra HD), 2160p",
+        "SMART": "Da, WebOS 4.0",
+        "Ekran": "LED",
+        "Tip Tunera": "Digitalni",
+        "Energetski razred": "A+",
+        "Wireless": "Ugra\u0111en",
+        "Povezivanje": "3xHDMI, 2xUSB, CI+, LAN (Pristup interrnetu i DLNA), Komponentni ulaz (deljiv kompozitni), Kompozitni ulaz (AV), RF In  2 (RF, Sat), Digitalni Audio Izlaz (Opti\u010dki",
+        "VESA Monta\u017ea": "200 x 200",
+        "Boja": "Crna",
+        "Ostalo": "Magic Zoom  Live Zoom + Focus Zoom\r\nMagic Link\r\nQuick Access\r\nPretra\u017eiva\u010d interneta\r\nMusic player\r\nChannel Advisor\r\nMagic Mobile Connection\r\nShare\r\nWi-Di (Wireless Display) - Be\u017ei\u010dno povezivanje sa ra\u010dunarom\r\nMiracast",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "10W + 10W",
+        "Masa": "8.4 kg",
+        "Dimenzije": "Dimenzije bez postolja 975 x 574 x 80.3 mm\r\nDimenzije sa postoljem 975 x 615 x 188 mm",
+        "Dodatne prednosti": "Picture Mastering Index  100Hz\r\nHDR tehnologija   4K Aktivni HDR\r\nHDR10 Pro\r\nHLG Pro\r\nWide Color Gamut IPS 4K\r\nLokalno zatamljenje  DIRECT LED\r\nProcesor  Quad Core procesor\r\nPobolj\u0161iva\u010d rezolucije na 4K 4K Upscaler",
+        "cena": 43990,
+        "naziv_proizvoda": "\n43\" Smart LED Lg 43UM7000PLA, 4K Ultra HD\n\n\n\nSKU: 142495\n",
+        "proizvodjac": "LG",
+        "opis": "\n43UM7000PLA ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-8.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-9.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-7.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662153-1.jpg"
     },
     {
         "EAN kod": "8806098396252",
@@ -612,7 +739,8 @@
         "cena": 44990,
         "naziv_proizvoda": "\n43\" Smart LED LG 43UM7100PLB, 4K Ultra HD\n\n\n\nSKU: 140417\n",
         "proizvodjac": "LG",
-        "opis": "\n43UM7100PLB "
+        "opis": "\n43UM7100PLB ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662154.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662154-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662154-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662154-6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662154-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662154-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/21/8662154-5.jpg"
     },
     {
         "EAN kod": "8806098388684",
@@ -636,28 +764,8 @@
         "cena": 49990,
         "naziv_proizvoda": "\n43\" Smart LED LG 43UM7390PLC, 4K Ultra HD\n\n\n\nSKU: 140131\n",
         "proizvodjac": "LG",
-        "opis": "\n43UM7390PLC "
-    },
-    {
-        "EAN kod": "8806098387960",
-        "URL proizvo\u0111a\u010da": "https://www.lg.com/rs/televizori/lg-43UM7600PLB",
-        "Model": "43UM7600PLB",
-        "Dijagonala": 43,
-        "Rezolucija": "4K Ultra HD",
-        "SMART": "Da",
-        "Ekran": "LED",
-        "Tip Tunera": "Digitalni DVB-T2/C/S2",
-        "Povezivanje": "HDMI 4K\r\nLAN (Pristup interrnetu i DLNA)\r\nKompozitni ulaz (AV)\r\nRF In\r\nARC (Audio Return Channel)\r\nKomponentni ulaz (deljiv kompozitni)\r\nDigitalni Audio Izlaz (Opti\u010dki)",
-        "Bluetooth": "Da",
-        "Boja": "Crna",
-        "Ostalo": "magi\u010dni daljinski",
-        "DVB-C": "Da",
-        "DVB-S2": "Da",
-        "DVB-T2": "Da",
-        "cena": 59990,
-        "naziv_proizvoda": "\n43\" Smart LED LG 43UM7600PLB, 4K Ultra HD\n\n\n\nSKU: 140267\n",
-        "proizvodjac": "LG",
-        "opis": "\n43UM7600PLB "
+        "opis": "\n43UM7390PLC ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/13/8661389.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/13/8661389-1.jpg"
     },
     {
         "EAN kod": "8718863018729",
@@ -681,10 +789,34 @@
         "Masa": "8.1  kg",
         "Dimenzije": "Bez postolja: 972.7  mm x 567.9  mm x 80.5  mm\nSa postoljem: 972.7  mm x 586.6  mm x 222.3  mm",
         "Dodatne prednosti": "HDCP 2.2, Quad Core CPU, HEVC",
-        "cena": 44990,
+        "cena": 49989,
         "naziv_proizvoda": "\n43\" Smart LED Philips 43PUS6504/12, 4K Ultra HD\n\n\n\nSKU: 144656\n",
-        "proizvodjac": "Philips",
-        "opis": "\n                            Televizor Philips 43PUS6504/12 poseduje 4K panel koji \u0107e vam pru\u017eiti bogate boje i sna\u017ean kontrast. Uz SaphiOS, zaronite u beskona\u010dni svet vrhunskog sadr\u017eaja svih najpopularnijih kreatora zabavnog sadr\u017eaja. Televizor Philips 43PUS6504/12 pru\u017ea vam vi\u0161e na\u010dina povezivanja sa drugim ure\u0111ajima. Uz 3xHDMI, 2XUSB konektore i Wifi lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima. Uz Vesa standard 200x200, svoj Philips televizor mo\u017eete oka\u010diti na zid i prilagoditi ga svojim potrebama.                        "
+        "proizvodjac": "PHILIPS",
+        "opis": "\n                            Televizor Philips 43PUS6504/12 poseduje 4K panel koji \u0107e vam pru\u017eiti bogate boje i sna\u017ean kontrast. Uz SaphiOS, zaronite u beskona\u010dni svet vrhunskog sadr\u017eaja svih najpopularnijih kreatora zabavnog sadr\u017eaja. Televizor Philips 43PUS6504/12 pru\u017ea vam vi\u0161e na\u010dina povezivanja sa drugim ure\u0111ajima. Uz 3xHDMI, 2XUSB konektore i Wifi lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima. Uz Vesa standard 200x200, svoj Philips televizor mo\u017eete oka\u010diti na zid i prilagoditi ga svojim potrebama.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/144/65/144656_5ec24a6220432.png, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/72/8657291-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/72/8657291-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/72/8657291-3.jpg"
+    },
+    {
+        "EAN kod": "8806090034473",
+        "URL proizvo\u0111a\u010da": "https://www.samsung.com/rs/tvs/ru7100-uhd-tv/UE43RU7172UXXH/",
+        "Model": "43RU7092UXXH",
+        "Dijagonala": 32,
+        "Rezolucija": "3840x2160 (Ultra HD), 2160p;\n",
+        "SMART": "Da",
+        "Ekran": "LED",
+        "Tip Tunera": "Digitalni",
+        "Energetski razred": "A",
+        "Wireless": "Da",
+        "Povezivanje": "3xHDMI, 2xUSB, CI+, Kompozitni ulaz, WiFi, Lan, Izlaz za slu\u0161alice",
+        "Bluetooth": "Da",
+        "Boja": "Crna",
+        "Napomena": "Gledaj svoj omiljeni sadr\u017eaj sa prirodnim bojama koje prikazuju detalje toliko jasno kao da gleda\u0161 u\u017eivo. Do\u017eivi \u017eivopisnije iskustvo gledanja.U\u017eivaj u jasnim, o\u0161trim slikama uz 4K UHD televizor koji ima 4x vi\u0161e piksela od FHD televizora. Sada mo\u017ee\u0161 da vidi\u0161 i najsitnije detalje u svakom kadru.U\u017eivaj u boji, o\u0161trini i nivou kontrasta optimizovanim prema uslovima gledanja. Funkcija zatamnjivanja na Samsung UHD televizorima deli i obra\u0111uje ekran u malim blokovima tako da mo\u017ee\u0161 da vidi\u0161 vi\u0161e preciznih detalja.",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "cena": 44990,
+        "naziv_proizvoda": "\n43\" Smart LED Samsung UE43RU7092UXXH, 4K Ultra HD \n\n\n\nSKU: 144793\n",
+        "proizvodjac": "SAMSUNG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658376.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658376-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658376-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658376-2.jpg"
     },
     {
         "EAN kod": "8606019603106",
@@ -706,7 +838,7 @@
         "Dimenzije": "Sa postoljem: 968 mm x 611 mm x 234 mm\r\nBez postolja: 968 mm x 566 mm x 91 mm",
         "cena": 31990,
         "naziv_proizvoda": "\n43\" Smart VOX  televizor 43ADS314MU, 4K Direct LED slim\n\n\n\nSKU: 149427\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "VOX",
         "opis": "\nPrednosti kupovine smart televizora Vox 43ADS314MU:\n1. Dijagonala TV ekrana je 43\"\n2. Koristi operativni sistem Android 9.0\n3. Poseduje integrisan WiFi\n4. Ima predefinisan pristup aplikacijama, kao \u0161to su: YouTube, Facebook i Twitter\n5. Ima Direct LED panel ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/149/42/149427_5e78b07cbfa23.jpg"
     },
@@ -728,8 +860,9 @@
         "Dimenzije": "Sa postoljem: 963 mm x 180 mm x 617 mm\r\nBez postolja: 963 mm x 81 mm x 567 mm",
         "cena": 26656,
         "naziv_proizvoda": "\n43\" TV Alpha 43G7NF 1920 x 1080\n\n\n\nSKU: 143265\n",
-        "proizvodjac": "Alpha",
-        "opis": "\n43G7NF "
+        "proizvodjac": "ALPHA",
+        "opis": "\n43G7NF ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/26/143265_5ebbf6cd232a2.jpg"
     },
     {
         "EAN kod": "8606108649732",
@@ -750,7 +883,8 @@
         "Dimenzije": "Dimenzije bez postolja (\u0160 x D x V)\t737.2 x 83.5 x 437.7\nDimenzije sa postoljem (\u0160 x D x V)\t737.2 x 190.0 x 477.4",
         "cena": 23990,
         "naziv_proizvoda": "\n43\" VOX 43DSA311B, Full HD\n\n\n\nSKU: 129754\n",
-        "proizvodjac": "VOX"
+        "proizvodjac": "VOX",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/682/76/6827644.jpg"
     },
     {
         "EAN kod": "8606019601195",
@@ -768,7 +902,8 @@
         "Dimenzije": "Dimenzije sa postoljem (\u0160 x D x V):\t967.7 x 207.2 x 608.5;\nDimenzije bez postolja (\u0160 x D x V):\t967.7 x 91.3 x 566",
         "cena": 23990,
         "naziv_proizvoda": "\n43\" Vox 43DSA314B, Full HD\n\n\n\nSKU: 135568\n",
-        "proizvodjac": "Vox"
+        "proizvodjac": "VOX",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/85/8638557.jpg"
     },
     {
         "EAN kod": "3856005172177",
@@ -791,8 +926,9 @@
         "Dimenzije": "Dimenzije bez postolja: 1110 x 530 x 88 mm\nDimenzije sa postoljem: 1110 x 690 x 314 mm\n",
         "cena": 29990,
         "naziv_proizvoda": "\n49\" LED Vivax TV-49S60T2S2, Full HD\n\n\n\nSKU: 135550\n",
-        "proizvodjac": "Vivax",
-        "opis": "\n                            Uz Vivax TV-49S60T2S2 u\u017eiva\u0107ete u Full HD rezoluciji va\u0161ih omiljenih sadr\u017eaja na tankom LED ekranu dijagonale 49\". UZ standardne HDMI i USB konektore, lako \u0107ete se povezati sa ostalim ure\u0111ajima.                        "
+        "proizvodjac": "VIVAX",
+        "opis": "\n                            Uz Vivax TV-49S60T2S2 u\u017eiva\u0107ete u Full HD rezoluciji va\u0161ih omiljenih sadr\u017eaja na tankom LED ekranu dijagonale 49\". UZ standardne HDMI i USB konektore, lako \u0107ete se povezati sa ostalim ure\u0111ajima.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/69/8636947.jpg"
     },
     {
         "EAN kod": "6921958649148",
@@ -814,8 +950,34 @@
         "Masa": "9.8kg",
         "cena": 36990,
         "naziv_proizvoda": "\n49\" Smart Android LED Max 49MT500S, 4K Ultra HD\n\n\n\nSKU: 148608\n",
-        "proizvodjac": "Max",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400-2.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400-3.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400-1.jpg"
+        "proizvodjac": "MAX",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/54/8665400-1.jpg"
+    },
+    {
+        "EAN kod": "8806098568819",
+        "URL proizvo\u0111a\u010da": "https://www.lg.com/rs/televizori/lg-49UM7000PLA",
+        "Model": "49UM7000PLA",
+        "Dijagonala": 49,
+        "Rezolucija": "3840x2160 (Ultra HD), 2160p",
+        "SMART": "Da, WebOS 4.0",
+        "Ekran": "LED",
+        "Tip Tunera": "Digitalni",
+        "Energetski razred": "A+",
+        "Wireless": "Ugra\u0111en",
+        "Povezivanje": "3x HDMI, 2x USB, Komponentni ulaz (deljiv kompozitni), Kompozitni ulaz (AV), RF, Sat, Digitalni Audio Izlaz (Opti\u010dki), CI Slot\n",
+        "VESA Monta\u017ea": "300 x 300",
+        "Boja": "Crna",
+        "Ostalo": "webOS ThinQ AI. Quad Core procesor. 4K Upscaler. Magic Link. Pretra\u017eiva\u010d interneta. Music player. Wi-Di. Miracast. Simplink (HDMI CEC). DLNA. PVR. Netflix kompatibilnost. Amazon kompatibilnost. EPG. ULTRA HD TV prijem.\n",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "10W+10W",
+        "Dimenzije": "Sa postoljem: 1108/705/235mm\nBez postolja: 1110/650/81.1mm",
+        "Dodatne prednosti": "4K Active HDR. HDR10 Pro. HLG Pro. Wide Color Gamut IPS 4K. Audio izlazna snaga 20W. Sistem zvu\u010dnika 2.0 ch. Ultra Surround. Clear Voice III. Smart Sound Mode. Hi-Fi Audio. DTS Decoder.\n",
+        "cena": 54990,
+        "naziv_proizvoda": "\n49\" Smart LED Lg 49UM7000PLA,  4K Ultra HD\n\n\n\nSKU: 142494\n",
+        "proizvodjac": "LG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/43/8664321.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/43/8664321-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/43/8664321-2.jpg"
     },
     {
         "EAN kod": "8806098396375",
@@ -839,8 +1001,9 @@
         "Zvu\u010dnici": "10W+10W Mod zvuka: Ultra Surround; Be\u017ei\u010dna sinhronizacija zvuka;",
         "cena": 54990,
         "naziv_proizvoda": "\n49\" Smart LED Lg 49UM7100PLB,  4K Ultra HD\n\n\n\nSKU: 140271\n",
-        "proizvodjac": "Lg",
-        "opis": "\n49UM7100PLB "
+        "proizvodjac": "LG",
+        "opis": "\n49UM7100PLB ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/37/8653717.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/37/8653717-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/37/8653717-5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/37/8653717-6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/37/8653717-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/37/8653717-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/37/8653717-1.jpg"
     },
     {
         "EAN kod": "8806098387854",
@@ -863,7 +1026,8 @@
         "cena": 62990,
         "naziv_proizvoda": "\n49\" Smart LED LG 49UM7400PLB, 4K Ultra HD\n\n\n\nSKU: 140134\n",
         "proizvodjac": "LG",
-        "opis": "\n49UM7400PLB "
+        "opis": "\n49UM7400PLB ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/52/8665279.jpg"
     },
     {
         "EAN kod": "4548736076402",
@@ -887,7 +1051,8 @@
         "Zvu\u010dnici": "10W+10W",
         "cena": 99990,
         "naziv_proizvoda": "\n49\" Smart LED Sony KD49XF8096BAEP, 4K Ultra HD\n\n\n\nSKU: 132748\n",
-        "proizvodjac": "IDK"
+        "proizvodjac": "SONY",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/96/8619628.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/96/8619628-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/96/8619628-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/96/8619628-3.jpg"
     },
     {
         "EAN kod": "0489701898206",
@@ -914,8 +1079,9 @@
         "Dodatne prednosti": "Kupovinom TV-a dobijate na poklon LG mini liniju CM1560.",
         "cena": 109990,
         "naziv_proizvoda": "\n49\" Smart NanoCell Lg 49SM8600PLA, 4K Ultra HD + CM1560\n\n\n\nSKU: 150367\n",
-        "proizvodjac": "Lg",
-        "opis": "\n49SM8600PLA "
+        "proizvodjac": "LG",
+        "opis": "\n49SM8600PLA ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664925.jpg"
     },
     {
         "EAN kod": "8606020055345",
@@ -931,9 +1097,34 @@
         "DVB-T2": "DA",
         "cena": 39990,
         "naziv_proizvoda": "\n50\" Smart Android LED Skytech 50USWWT5, 4K Ultra HD\n\n\n\nSKU: 150366\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "SKYTECH",
         "opis": "\nUz televizor Skytech 50SWWT5 u\u017eiva\u0107ete u jasnoj slici \u017eivopisnih boja, koju vam omogu\u0107ava Full HD rezolucija, visok kontrast kao i jako osvetljenje. Tako\u0111e, poseduje HDMI i USB konektore, pa \u0107ete mo\u0107i u svakom trenutku da se pove\u017eete sa drugim ure\u0111ajima i gledate va\u0161e omiljene filmove i serije koje mo\u017eete gledati na Netflix i Eon platformama.\u00a0 ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/150/36/150366_5e7c6de86890a.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/35/8663520-1.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/35/8663520-2.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/150/36/150366_5e7c6de86890a.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/35/8663520-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/35/8663520-2.jpg"
+    },
+    {
+        "EAN kod": "8806098383399",
+        "Model": "50UM7500PLA",
+        "Dijagonala": 50,
+        "Rezolucija": "3840x2160 (4K Ultra HD), 2160p;",
+        "SMART": "Da",
+        "Ekran": "LCD",
+        "Tip Tunera": "Digitalni",
+        "Energetski razred": "A",
+        "Wireless": "Ugra\u0111en",
+        "Povezivanje": "3xHDMI; 2xUSB; CI slot; ARC (Audio Return Channel); LAN (Pristup interrnetu i DLNA); RF In;",
+        "VESA Monta\u017ea": "Da",
+        "Bluetooth": "Da",
+        "Boja": "Srebrna",
+        "Ostalo": "Netflix kompatibilnost; Amazon kompatibilnost; Glasovna pretrag; Miracast;\r\nUz televizor dolazi na poklon Magic Remote AN-MR19BA",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "10W+10W; Hi-Fi Audio; Be\u017ei\u010dna sinhronizacija zvuka;",
+        "cena": 66656,
+        "naziv_proizvoda": "\n50\" Smart LED Lg 50UM7500PLA, 4K Ultra HD\n\n\n\nSKU: 140272\n",
+        "proizvodjac": "LG",
+        "opis": "\nLG 50UM7500PLA poseduje 4K Ultra HD rezoluciju, koja \u0107e vam pru\u017eiti bogate boje i sna\u017ean kontrast, a zvu\u010dnici od 20W pobrinu\u0107e se za dobre zvu\u010dne efekte. Elegantan dizajn uklopi\u0107e se u svaki proctor, a uz HDMI I USB konektore, Bluetooth i Wifi lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima. ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-8.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-10.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-9.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/61/8656126-7.jpg"
     },
     {
         "EAN kod": "8718863016572",
@@ -956,10 +1147,38 @@
         "Zvu\u010dnici": "8W+8W",
         "Masa": "11,2kg",
         "Dimenzije": "Visina: 655,3  mm; Dubina: 85,9  mm; \u0160irina: 1127,5  mm\n",
-        "cena": 54990,
+        "cena": 61100,
         "naziv_proizvoda": "\n50\" Smart LED Philips 50PUS6203/12, 4K Ultra HD\n\n\n\nSKU: 144655\n",
-        "proizvodjac": "Philips",
-        "opis": "\n                            Philips 50PUS6203/12 televizor prepoznatljiv je 4K tehnologiji koja obezbe\u0111uje bogate boje i neverovatne detalje na tankom ekranu dijagonale 50\". Ovaj Smart televizor obezbedi\u0107e vam lako povezivanje sa ostalim ure\u0111ajima pomo\u0107u HDMI i USB konektora, a pomo\u0107u integrisanog WiFi bi\u0107ete u prilici da u svakom trenutku pristupite va\u0161im omiljenim sadr\u017eajima.                        "
+        "proizvodjac": "PHILIPS",
+        "opis": "\n                            Philips 50PUS6203/12 televizor prepoznatljiv je 4K tehnologiji koja obezbe\u0111uje bogate boje i neverovatne detalje na tankom ekranu dijagonale 50\". Ovaj Smart televizor obezbedi\u0107e vam lako povezivanje sa ostalim ure\u0111ajima pomo\u0107u HDMI i USB konektora, a pomo\u0107u integrisanog WiFi bi\u0107ete u prilici da u svakom trenutku pristupite va\u0161im omiljenim sadr\u017eajima.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/98/8629813.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/98/8629813-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/98/8629813-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/98/8629813-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/98/8629813-1.jpg"
+    },
+    {
+        "EAN kod": "8801643772017",
+        "URL proizvo\u0111a\u010da": "https://www.samsung.com/rs/tvs/ru7100-uhd-tv/UE50RU7172UXXH/",
+        "Model": "UE50RU7172UXXH",
+        "Dijagonala": 50,
+        "Rezolucija": "3840x2160 (4K Ultra HD), 2160p",
+        "SMART": "Da",
+        "Ekran": "LED",
+        "Tip Tunera": "Digitalni",
+        "Energetski razred": "A",
+        "Wireless": "Ugra\u0111en",
+        "Povezivanje": "3xHDMI, 2xUSB, Komponentni ulaz (Y/Pb/Pr), Digitalni Audio izlaz (opti\u010dki), Automatsko pretra\u017eivanje kanala, Teletext (TTX),",
+        "VESA Monta\u017ea": "Da",
+        "Boja": "Crna",
+        "Ostalo": "Re\u017eim filma, Web pregleda\u010d, Podr\u0161ka za SmartThings aplikaciju,",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "10W+10W",
+        "Masa": "Sa postoljem: 13,90 kg, Bez postolja:\n13,6 kg",
+        "Dimenzije": "Sa postoljem (\u0160xVxD): 1124.8 x 728.8 x 261.3 mm, Bez postolja (\u0160xVxD): 1124.8 x 650.2 x 59.1 mm",
+        "cena": 57990,
+        "naziv_proizvoda": "\n50\" Smart LED Samsung UE50RU7172UXXH, 4K Ultra HD\n\n\n\nSKU: 144792\n",
+        "proizvodjac": "SAMSUNG",
+        "opis": "\n                            Samsung UE50RU7172UXXH poseduje kvalitet slike koji \u0107e na vas ostaviti jak ustisak \u2013 sada mo\u017eete videti najsitnije detalje u svakom kadru. U\u017eiva\u0107ete u jasnim I o\u0161trim slikama uz vi\u0161e detalja u svetlim I tamnim kadrovima uz 4K UHD televizor. Atraktivan dizajn UHD televizora, moderan i ugla\u0111en uklapa se u svaki enterijer. Besprekorno se uklapa sa pametnim zvu\u010dnicima I mobilnim ure\u0111ajima, \u010dak I sa proizvodima drugih proizvo\u0111a\u010da.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/18/8661801.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/18/8661801-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/18/8661801-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/18/8661801-2.jpg"
     },
     {
         "EAN kod": "8606019601287",
@@ -984,8 +1203,9 @@
         "Dodatne prednosti": "No\u017eice (side stand)",
         "cena": 144990,
         "naziv_proizvoda": "\n55\" Smart Android OLED Vox 55ADJ798B, 4k Ultra HD\n\n\n\nSKU: 142249\n",
-        "proizvodjac": "Vox",
-        "opis": "\n                            Televizor Vox 55ADJ798B predstavlja spoj elegantnog stakla i jedinstvene sofisticirane OLED tehnologije. Jasno\u0107a sa istan\u010danim detaljima, \u017eivopisne boje i ve\u0107a dubina prikazani su na svakoj slici. Stereo zvu\u010dnici \u0107e u va\u0161 dom uneti trodimenzionalni dinami\u010dki zvuk zahvaljuju\u0107i JBL zvu\u010dnicima. Sa ugra\u0111enim WiFi, 3 HDMI i 2 USB konektora lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima koji Vam omogu\u0107ava Google Play prodavnica.                        "
+        "proizvodjac": "VOX",
+        "opis": "\n                            Televizor Vox 55ADJ798B predstavlja spoj elegantnog stakla i jedinstvene sofisticirane OLED tehnologije. Jasno\u0107a sa istan\u010danim detaljima, \u017eivopisne boje i ve\u0107a dubina prikazani su na svakoj slici. Stereo zvu\u010dnici \u0107e u va\u0161 dom uneti trodimenzionalni dinami\u010dki zvuk zahvaljuju\u0107i JBL zvu\u010dnicima. Sa ugra\u0111enim WiFi, 3 HDMI i 2 USB konektora lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima koji Vam omogu\u0107ava Google Play prodavnica.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/864/93/8649388.jpg"
     },
     {
         "EAN kod": "8806098144341",
@@ -1009,7 +1229,8 @@
         "Dimenzije": "Bez postolja: 1237\t721\t63.3 mm (\u0160xVxD)\nSa postoljem: 1237\t794\t248.4 mm (\u0160xVxD)\n",
         "cena": 111690,
         "naziv_proizvoda": "\n55\" Smart LED Lg 55SK8100PLA, 4K Ultra HD\n\n\n\nSKU: 133226\n",
-        "proizvodjac": "Lg"
+        "proizvodjac": "LG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628840.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628840-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628840-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628840-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/88/8628840-2.jpg"
     },
     {
         "EAN kod": "8806098424795",
@@ -1029,7 +1250,8 @@
         "cena": 79990,
         "naziv_proizvoda": "\n55\" Smart LED LG 55UM7610PLB, 4K Ultra HD\n\n\n\nSKU: 140278\n",
         "proizvodjac": "LG",
-        "opis": "\n55UM7610PLB "
+        "opis": "\n55UM7610PLB ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/26/8662606.jpg"
     },
     {
         "EAN kod": "8801643663735",
@@ -1051,17 +1273,8 @@
         "DVB-T2": "Da",
         "cena": 66990,
         "naziv_proizvoda": "\n55\" Smart LED Samsung UE55RU7172UXXH, 4K Ultra HD \n\n\n\nSKU: 147569\n",
-        "proizvodjac": "IDK"
-    },
-    {
-        "EAN kod": "8801643882051",
-        "Model": "Smart televizor UE55RU8002UXXH",
-        "cena": 99990,
-        "naziv_proizvoda": "\n55\" Smart LED Samsung UE55RU8002UXXH, 4K Ultra HD\n\n\n\nSKU: 139081\n",
-        "proizvodjac": "IDK",
-        "opis": "\nSmart televizor UE55RU8002UXXH  ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139081_5ea04ae8ccdf3.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139081_5ea04ae9aadb0.jpg",
-        "Dijagonala": 32
+        "proizvodjac": "SAMSUNG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658380.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658380-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658380-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658380-3.jpg"
     },
     {
         "EAN kod": "4548736095694",
@@ -1082,8 +1295,9 @@
         "Masa": "Bez nosa\u010da; 11,9 kg\r\nSa nosa\u010dem: 12,5 kg",
         "cena": 73990,
         "naziv_proizvoda": "\n55\" Smart LED Sony KD55XG7077SAEP. 4K Ultra HD\n\n\n\nSKU: 145343\n",
-        "proizvodjac": "Sony",
-        "opis": "\nKD55XG7077SAEP\u00a0 "
+        "proizvodjac": "SONY",
+        "opis": "\nKD55XG7077SAEP\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/59/8665960.jpg"
     },
     {
         "EAN kod": "8806098408887",
@@ -1121,8 +1335,9 @@
         "Dodatne prednosti": "Kupovinom TV-a dobijate na poklon LG Soundbar SJ2.",
         "cena": 119990,
         "naziv_proizvoda": "\n55\" Smart NanoCell Lg 55SM8600PLA, 4K Ultra HD + SJ2\n\n\n\nSKU: 150823\n",
-        "proizvodjac": "Lg",
-        "opis": "\n55SM8600PLA "
+        "proizvodjac": "LG",
+        "opis": "\n55SM8600PLA ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/49/8664926.jpg"
     },
     {
         "EAN kod": "8806098144396",
@@ -1145,7 +1360,8 @@
         "cena": 239990,
         "naziv_proizvoda": "\n55\" Smart OLED LG OLED55E8PLA, 4K Ultra HD\n\n\n\nSKU: 132701\n",
         "proizvodjac": "LG",
-        "opis": "\n                            Televizor LG OLED55E8PLA predstavlja spoj elegantnog stakla i jedinstvene sofisticirane OLED tehnologije. Inteligentni procesor Alpha9 optimizovan je za LG OLED TV. Jasno\u0107a sa istan\u010danim detaljima, \u017eivopisne boje i ve\u0107a dubina prikazani su na svakoj slici. \u0160est zvu\u010dnika ukupne snage 60W \u0107e u va\u0161 dom uneti trodimenzionalni dinami\u010dki zvuk zahvaljuju\u0107i tehnologiji Dolby Atmos. Sa ugra\u0111enim WiFi, 4 HDMI i 3 USB konektora lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima.                        "
+        "opis": "\n                            Televizor LG OLED55E8PLA predstavlja spoj elegantnog stakla i jedinstvene sofisticirane OLED tehnologije. Inteligentni procesor Alpha9 optimizovan je za LG OLED TV. Jasno\u0107a sa istan\u010danim detaljima, \u017eivopisne boje i ve\u0107a dubina prikazani su na svakoj slici. \u0160est zvu\u010dnika ukupne snage 60W \u0107e u va\u0161 dom uneti trodimenzionalni dinami\u010dki zvuk zahvaljuju\u0107i tehnologiji Dolby Atmos. Sa ugra\u0111enim WiFi, 4 HDMI i 3 USB konektora lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/41/8634106.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/41/8634106-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/41/8634106-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/41/8634106-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/41/8634106-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/41/8634106-6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/41/8634106-5.jpg"
     },
     {
         "EAN kod": "8806098396467",
@@ -1180,43 +1396,19 @@
         "Dimenzije": "Ne",
         "cena": 79990,
         "naziv_proizvoda": "\n60\" Smart UHD LG 60UM7100PLB , 4K HDR\n\n\n\nSKU: 140524\n",
-        "proizvodjac": "IDK",
-        "opis": "\nDo\u017eivite realisti\u010dnije 4K slike uz fine detalje i \u017eivopisne boje na\u00a0 ekranu koji pru\u017ea \u010detiri puta ve\u0107u rezoluciju nego Full HD. Gde god da sednete, \u0161irok ugao gledanja IPS 4K panela odr\u017eava va\u0161u pa\u017enju potpuno okupiranu spektakularnim realisti\u010dnim prikazom \u2013 uz gotovo 100 precizan prikaz boja, \u010dak i pod uglom od 60 stepeni. Brzi, precizne \u010detvorojezgarni procesor uklanja \u0161um i proizvodi dinami\u010dnije boje i kontrast.\u00a0 Najmanja razlika u bojama precizno se oslikava da bi se reprodukovale o\u0161trije, bogatije i realisti\u010dnije boje. Aktivni 4K HDR optimizuje svaku scenu, reprodukuje fine detalje i bogate boje. Vi\u0161estruki HDR format, uklju\u010duju\u0107i HDR10 i HLG, zajedno sa tehnologijom dinami\u010dnog pode\u0161avanja prikaza \u201escena-za-scenom\u201d kompanije LG, omogu\u0107ava vam da u\u017eivate u svakom video sadr\u017eaju u neverovatnom HDR kvalitetu. "
+        "proizvodjac": "LG",
+        "opis": "\nDo\u017eivite realisti\u010dnije 4K slike uz fine detalje i \u017eivopisne boje na\u00a0 ekranu koji pru\u017ea \u010detiri puta ve\u0107u rezoluciju nego Full HD. Gde god da sednete, \u0161irok ugao gledanja IPS 4K panela odr\u017eava va\u0161u pa\u017enju potpuno okupiranu spektakularnim realisti\u010dnim prikazom \u2013 uz gotovo 100 precizan prikaz boja, \u010dak i pod uglom od 60 stepeni. Brzi, precizne \u010detvorojezgarni procesor uklanja \u0161um i proizvodi dinami\u010dnije boje i kontrast.\u00a0 Najmanja razlika u bojama precizno se oslikava da bi se reprodukovale o\u0161trije, bogatije i realisti\u010dnije boje. Aktivni 4K HDR optimizuje svaku scenu, reprodukuje fine detalje i bogate boje. Vi\u0161estruki HDR format, uklju\u010duju\u0107i HDR10 i HLG, zajedno sa tehnologijom dinami\u010dnog pode\u0161avanja prikaza \u201escena-za-scenom\u201d kompanije LG, omogu\u0107ava vam da u\u017eivate u svakom video sadr\u017eaju u neverovatnom HDR kvalitetu. ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/52/140524_5e78875e43688.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/52/140524_5e78875e548e7.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/52/140524_5e78875e93325.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/52/140524_5e78875ec3c58.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/52/140524_5e78875ed1462.jpg"
     },
     {
         "EAN kod": "8806098568703",
         "Model": "65UM7000PLA",
         "cena": 91990,
         "naziv_proizvoda": "\n65\" Smart LED 65UM7000PLA, 4K Ultra HD\n\n\n\nSKU: 142532\n",
-        "proizvodjac": "LED",
+        "proizvodjac": "IDK",
         "opis": "\n65UM7000PLA ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/866/14/8661401.jpg",
         "Dijagonala": 32
-    },
-    {
-        "EAN kod": "8806098386468",
-        "Model": "65UM7400PLB",
-        "Dijagonala": 65,
-        "Rezolucija": "3840x2160 (4K Ultra HD), 2160p;",
-        "SMART": "Da",
-        "Ekran": "LED",
-        "Tip Tunera": "Digitalni",
-        "Vreme odziva": "Da",
-        "Energetski razred": "A",
-        "Wireless": "Ugra\u0111en.",
-        "Povezivanje": "3xHDMI; 2xUSB; ARC (Audio Return Channel); LAN (Pristup interrnetu i DLNA); Komponentni ulaz (deljiv kompozitni); CI Slot;",
-        "VESA Monta\u017ea": "Da",
-        "Bluetooth": "Da",
-        "Boja": "Siva",
-        "Ostalo": "Glasovna pretraga; Pretra\u017eiva\u010d interneta; Wi-Di (Wireless Display) - Be\u017ei\u010dno povezivanje sa ra\u010dunarom; Miracast; Netflix kompatibilnost; Amazon kompatibilnost;",
-        "DVB-C": "Da",
-        "DVB-S2": "Da",
-        "DVB-T2": "Da",
-        "Zvu\u010dnici": "10W+10W; Hi-Fi Audio; Be\u017ei\u010dna sinhronizacija zvuka;",
-        "cena": 89990,
-        "naziv_proizvoda": "\n65\" Smart LED Lg 65UM7400PLB, 4K Ultra HD\n\n\n\nSKU: 140136\n",
-        "proizvodjac": "Lg",
-        "opis": "\nTV LG 65UM7400PLB uz 4K Ultra HD rezoluciju pru\u017ea slike bogatih boja i sna\u017ean kontrast, a zvu\u010dnici od 20W pobrinu\u0107e se za dobre zvu\u010dne efekte. Uz HDMI I USB konektore, Bluetooth i Wifi lako \u0107ete se povezati sa ostalim ure\u0111ajima i u\u017eivati u omiljenim sadr\u017eajima. "
     },
     {
         "EAN kod": "8801643177270",
@@ -1229,7 +1421,8 @@
         "Wireless": "Ugra\u0111en",
         "cena": 138990,
         "naziv_proizvoda": "\n65\" Smart LED Samsung UE65NU7372 , 4K Ultra HD\n\n\n\nSKU: 147570\n",
-        "proizvodjac": "Samsung"
+        "proizvodjac": "SAMSUNG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/03/8630313.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/03/8630313-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/03/8630313-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/03/8630313-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/03/8630313-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/863/03/8630313-5.jpg"
     },
     {
         "EAN kod": "8806090034480",
@@ -1250,7 +1443,8 @@
         "DVB-T2": "Da",
         "cena": 97990,
         "naziv_proizvoda": "\n65\" Smart LED SAMSUNG UE65RU7092UXXH , 4K Ultra HD \n\n\n\nSKU: 148585\n",
-        "proizvodjac": "SAMSUNG"
+        "proizvodjac": "SAMSUNG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/83/8658382.jpg"
     },
     {
         "EAN kod": "8806098145256",
@@ -1273,7 +1467,8 @@
         "cena": 499990,
         "naziv_proizvoda": "\n65\" Smart OLED LG OLED65W8PLA, 4K Ultra HD\n\n\n\nSKU: 139070\n",
         "proizvodjac": "LG",
-        "opis": "\n                            LG SIGNATURE OLED65W8PLA predstavlja samu su\u0161tinu TV-a. \nUz minimalisti\u010dki dizajn, inteligentni procesor Alpha 9 upotpunjuju u\u017eitak u gledanju. Savr\u0161ena crna boja donosi bogat kontrast koji pru\u017ea mno\u0161tvo mogu\u0107nosti. LG Cinema HDR prenosi viziju autora filmova putem podr\u0161ke za ve\u0107inu HDR formata. Dolby Atmos\u00ae kreira sna\u017ean, \npokretni zvuk koji kao da se prote\u017ee\nsvuda oko vas, uklju\u010duju\u0107i i prostor iznad glave, \nbele\u017ee\u0107i kretanje svakog predmeta.                        "
+        "opis": "\n                            LG SIGNATURE OLED65W8PLA predstavlja samu su\u0161tinu TV-a. \nUz minimalisti\u010dki dizajn, inteligentni procesor Alpha 9 upotpunjuju u\u017eitak u gledanju. Savr\u0161ena crna boja donosi bogat kontrast koji pru\u017ea mno\u0161tvo mogu\u0107nosti. LG Cinema HDR prenosi viziju autora filmova putem podr\u0161ke za ve\u0107inu HDR formata. Dolby Atmos\u00ae kreira sna\u017ean, \npokretni zvuk koji kao da se prote\u017ee\nsvuda oko vas, uklju\u010duju\u0107i i prostor iznad glave, \nbele\u017ee\u0107i kretanje svakog predmeta.                        ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-8.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-7.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-3.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/58/8625896-1.jpg"
     },
     {
         "EAN kod": "8801643812959",
@@ -1307,7 +1502,28 @@
         "Dodatne prednosti": "Grafi\u010dki procesor: Q Engine\nHDR (High Dynamic Range): Q HDR 1500\nDinami\u010dki odnos kontrasta: Mega Contrast\nMicro Dimming: Supreme UHD Dimming\nPrecision Black (Local Dimming): Precision Black Pro",
         "cena": 336790,
         "naziv_proizvoda": "\n65\" Smart QLED Samsung QE65Q7CAMTXXH,4K Ultra HD \n\n\n\nSKU: 126364\n",
-        "proizvodjac": "Samsung"
+        "proizvodjac": "SAMSUNG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/83/8618353.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/83/8618353-5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/83/8618353-4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/83/8618353-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/83/8618353-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/861/83/8618353-3.jpg"
+    },
+    {
+        "EAN kod": "8801643710866",
+        "Model": "QE65Q85RATXXH",
+        "Dijagonala": 65,
+        "Rezolucija": "3,840 x 2,160",
+        "SMART": "da",
+        "Energetski razred": "B",
+        "Wireless": "da",
+        "Povezivanje": "4 hdmi 3 usb",
+        "Boja": "siva",
+        "DVB-C": "da",
+        "DVB-T2": "da",
+        "Masa": "Te\u017eina kompleta sa postoljem: 28.20 kg\r\nTe\u017eina kompleta bez postolja: 25.1 kg",
+        "Dimenzije": "Dimenzije: 1449.5 x 918.0 x 327.9 mm",
+        "cena": 249990,
+        "naziv_proizvoda": "\n65\" Smart QLED Samsung QE65Q85RATXXH, 4K Ultra HD\n\n\n\nSKU: 139084\n",
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nQE65Q85RATXXH\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139084_5eaaa400389c5.jpg"
     },
     {
         "EAN kod": "8806088660561",
@@ -1324,7 +1540,35 @@
         "Dimenzije": "\u0160xVxD (mm) TV (bez police): 1441,9 \u00d7 828,8 \u00d7 107,3 mm; \u0160xVxD (mm) sa policom: 1441,9 \u00d7 918,5 \u00d7 375,1 mm",
         "cena": 395790,
         "naziv_proizvoda": "\n65\" Smart QLED SAMSUNG QE65Q8CAMTXXH, 4K Ultra HD\n\n\n\nSKU: 126891\n",
-        "proizvodjac": "SAMSUNG"
+        "proizvodjac": "SAMSUNG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/681/21/6812130.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/681/21/6812130-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/681/21/6812130-2.jpg"
+    },
+    {
+        "EAN kod": "8801643638559",
+        "URL proizvo\u0111a\u010da": "https://www.samsung.com/rs/tvs/qled-q7cr-eu/QE75Q70RATXXH/",
+        "Model": "QE75Q70RATXXH",
+        "Dijagonala": 32,
+        "Rezolucija": "3840x2160 (4K Ultra HD), 2160p;",
+        "SMART": "Da",
+        "Ekran": "QLED",
+        "Tip Tunera": "Digitalni\n",
+        "Energetski razred": "A",
+        "Wireless": "Ugra\u0111en",
+        "Povezivanje": "4xHDMI, 2xUSB, RF ulaz (zemaljski / kablovski ulaz), Eternet (LAN), Digitalni Audio izlaz (opti\u010dki), CI otvor. Ugra\u0111eni Wireless LAN\n",
+        "VESA Monta\u017ea": "Da",
+        "Bluetooth": "Da",
+        "Boja": "Crna",
+        "Napomena": "U periodu od 22.11.2019 do 15.01.2020 mo\u017eete registrovati Va\u0161 QLED ure\u0111aj putem portala samsung5godinagarancija.rs radi ostvarivanja garancije u trajanju od 5 godina. ",
+        "DVB-C": "Da",
+        "DVB-S2": "Da",
+        "DVB-T2": "Da",
+        "Zvu\u010dnici": "20W + 20W",
+        "Masa": "36.60 kg",
+        "Dimenzije": "Bez postolja: 1675.2 x 960.9 x 62.0 mm\nSa postoljem: 1675.2 x 1048.2 x 359.8 mm\n",
+        "cena": 329990,
+        "naziv_proizvoda": "\n75\" Smart QLED Samsung QE75Q70RATXXH, 4K Ultra HD\n\n\n\nSKU: 140156\n",
+        "proizvodjac": "SAMSUNG",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/04/8650456.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/04/8650456-2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/865/04/8650456-1.jpg"
     },
     {
         "EAN kod": "8606017161486",
@@ -1346,7 +1590,7 @@
         "Dodatne prednosti": "ARM Cortex-A53 Quad core\r\nMemorija: 8 GB, RAM: 1,5 GB\r\nUgao gledanja: 178\u00b0\r\nDinami\u010dki kontrast: Ultra Kontrast\r\nVreme odziva: 9,5 ms\r\nMetalne nogice\r\nPVR - Funkcija snimanja sadr\u017eaja\r\nPodr\u017eava: Deljenje ekrana sa mobilnog ure\u0111aja, daljinsko upravljanje pomo\u0107u mobilnog ure\u0111aja\r\nPokretna rezolucija: 1000 RMR",
         "cena": 39990,
         "naziv_proizvoda": "\nFOX Smart televizor 50DLE788\n\n\n\nSKU: 143407\n",
-        "proizvodjac": "televizor",
+        "proizvodjac": "FOX",
         "opis": "\n50DLE788 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/40/143407_5ebd01c239ebd.jpg"
     },
@@ -1363,8 +1607,9 @@
         "DVB-T2": "da",
         "cena": 99990,
         "naziv_proizvoda": "\nSamsung \"The frame\" smart televizor QE43LS03RAUXXH\n\n\n\nSKU: 141952\n",
-        "proizvodjac": "televizor",
-        "opis": "\nQE43LS03RAUXXH\u00a0 "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nQE43LS03RAUXXH\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/95/141952_5ea93c9fd3419.jpg"
     },
     {
         "EAN kod": "8801643752552",
@@ -1385,8 +1630,9 @@
         "Dimenzije": "Bez postolja: 1453,9 mm x 830,9 mm x 42,5 mm\r\nSa postoljem: 1453,9 mm x 875,5 mm x 294 mm",
         "cena": 199990,
         "naziv_proizvoda": "\nSamsung \"The frame\" smart televizor QE65LS03RAUXXH\n\n\n\nSKU: 141949\n",
-        "proizvodjac": "IDK",
-        "opis": "\nSamsung \"The frame\" smart televizor QE65LS03RAUXXH\u00a0 "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nSamsung \"The frame\" smart televizor QE65LS03RAUXXH\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/94/141949_5eaab348642d5.jpg"
     },
     {
         "EAN kod": "8806090039720",
@@ -1404,8 +1650,9 @@
         "Dimenzije": "1684,6 mm x 966,4 mm x 60,1 mm",
         "cena": 149990,
         "naziv_proizvoda": "\nSamsung Smart 75\"  UE75RU7022KXXH\n\n\n\nSKU: 142469\n",
-        "proizvodjac": "",
-        "opis": "\nUE75RU7022KXXH "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nUE75RU7022KXXH ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/46/142469_5eaab128b1ff3.jpg"
     },
     {
         "EAN kod": "8801643706043",
@@ -1421,7 +1668,7 @@
         "Dimenzije": "Dimenzije kompleta sa postoljem (\u0160xVxD)\r\n970.2 x 648.0 x 343.7 mm\r\nDimenzije kompleta bez postolja (\u0160xVxD)\r\n970.2 x 563.2 x 58.1 mm",
         "cena": 59990,
         "naziv_proizvoda": "\nSamsung TV smart  43\" UE43RU7412UXXH\n\n\n\nSKU: 152262\n",
-        "proizvodjac": "43\"",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nUE43RU7412UXXH ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/152/26/152262_5ebd1ccd7e17d.png"
     },
@@ -1445,8 +1692,9 @@
         "Dimenzije": "Sa postoljem: 900,3 mm x 596,1 mm 178,9 mm\r\nBez postolja: 897,9 mm x 514,5 mm x 86,7 mm",
         "cena": 26990,
         "naziv_proizvoda": "\nSmart Alpha Smart 43\"  43G7NFS Full HD\n\n\n\nSKU: 143266\n",
-        "proizvodjac": "",
-        "opis": "\n43G7NFS "
+        "proizvodjac": "ALPHA",
+        "opis": "\n43G7NFS ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/26/143266_5ebbf6e7c9253.jpg"
     },
     {
         "EAN kod": "4548736096486",
@@ -1465,9 +1713,9 @@
         "Zvu\u010dnici": "10 W + 10 W",
         "cena": 79990,
         "naziv_proizvoda": "\nSony 49\"  KD49XG8196BAEP 4K Ultra HD\n\n\n\nSKU: 140252\n",
-        "proizvodjac": "",
+        "proizvodjac": "SONY",
         "opis": "\nKD49XG8196BAEP  ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140252_5ea17cf10c64b.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140252_5ea17cf291921.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140252_5ea17cf5e30d5.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140252_5ea17cf10c64b.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140252_5ea17cf291921.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140252_5ea17cf5e30d5.jpg"
     },
     {
         "EAN kod": "8606019601478",
@@ -1487,8 +1735,9 @@
         "Dimenzije": "Dimenzije bez postolja (\u0160 x D x V) 910.8 x 94. x 521.8; Dimenzije sa postoljem (\u0160 x D x V) 910.8 x 211.5 x 567",
         "cena": 21990,
         "naziv_proizvoda": "\nTelevizor 40\" LED Vox 40DSA311B, Full HD\n\n\n\nSKU: 139405\n",
-        "proizvodjac": "Vox",
-        "opis": "\nUz televizor Vox 40DSA311B u\u017eiva\u0107ete u jasnoj slici koju vam donosi Full HD rezolucija u kombinaciji sa visokim kontrastom. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em Vox televizoru. Pomo\u0107u USB priklju\u010dka na TV ure\u0111aju, mo\u017eete povezati svoj USB stick i gledati filmove, slike, slu\u0161ati muziku...Sasvim brzo i lako pomo\u0107u HDMI priklju\u010dka mo\u017eete povezati svoje ure\u0111aje i tako u\u017eivati u zvuku i slici sa va\u0161eg video plejera ili u sadr\u017eajima sa va\u0161eg ra\u010dunara.  "
+        "proizvodjac": "VOX",
+        "opis": "\nUz televizor Vox 40DSA311B u\u017eiva\u0107ete u jasnoj slici koju vam donosi Full HD rezolucija u kombinaciji sa visokim kontrastom. U svim sadr\u017eajima koje \u010duvate na eksternoj memoriji, mo\u017eete u\u017eivati na va\u0161em Vox televizoru. Pomo\u0107u USB priklju\u010dka na TV ure\u0111aju, mo\u017eete povezati svoj USB stick i gledati filmove, slike, slu\u0161ati muziku...Sasvim brzo i lako pomo\u0107u HDMI priklju\u010dka mo\u017eete povezati svoje ure\u0111aje i tako u\u017eivati u zvuku i slici sa va\u0161eg video plejera ili u sadr\u017eajima sa va\u0161eg ra\u010dunara.  ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/40/139405_5eb94808712bc.jpg"
     },
     {
         "EAN kod": "8806098141913",
@@ -1505,8 +1754,9 @@
         "Dimenzije": "Bez postolja: 97.6 x 58.3 x 6.95 cm\r\nSa postoljem: 97.6 x 62.8 x 21.7 cm",
         "cena": 34990,
         "naziv_proizvoda": "\nTelevizor 43\"\u00a0LED\u00a0LG\u00a043LK5100PLA\n\n\n\nSKU: 132687\n",
-        "proizvodjac": "IDK",
-        "opis": "\n\u00a0U\u017eivajte u omiljenim multimedijalnim sadr\u017eajima u rezoluciji visokog formata. LG 43LK5100PLA je model koji je stilizovan za lako uklapanje u bilo koji prostor. "
+        "proizvodjac": "LG",
+        "opis": "\n\u00a0U\u017eivajte u omiljenim multimedijalnim sadr\u017eajima u rezoluciji visokog formata. LG 43LK5100PLA je model koji je stilizovan za lako uklapanje u bilo koji prostor. ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/132/68/132687_5e78a7be9aa3c.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/132/68/132687_5e78a7beca00a.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/132/68/132687_5e78a7bf44f62.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/132/68/132687_5e78a7be43008.jpg"
     },
     {
         "EAN kod": "8806090034251",
@@ -1525,8 +1775,9 @@
         "DVB-T2": "Da",
         "cena": 56990,
         "naziv_proizvoda": "\nTelevizor 50\" Smart LED Samsung UE50RU7092UXXH, 4K Ultra HD\n\n\n\nSKU: 152263\n",
-        "proizvodjac": "IDK",
-        "opis": "\n\nGledaj svoj omiljeni sadr\u017eaj sa prirodnim bojama koje prikazuju detalje toliko jasno kao da gleda\u0161 u\u017eivo. Do\u017eivi \u017eivopisnije iskustvo gledanja. Kvalitet slike koji \u0107e te odu\u0161eviti, a koji omogu\u0107ava jedan \u010dip koji upravlja bojom, optimizuje kontrast i kontroli\u0161e HDR.Tako si blizu\u2026 kao nikad pre. Kada je ekran tako veliki, pred o\u010dima ti o\u017eivljava jo\u0161 vi\u0161e detalja. Do\u017eive\u0107e\u0161 na novi na\u010din svaki sekund utakmice, oseti\u0107e\u0161 svaku eksploziju i bi\u0107e\u0161 usred svake akcije. Na ve\u0107em ekranu sve je realnije. "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\n\nGledaj svoj omiljeni sadr\u017eaj sa prirodnim bojama koje prikazuju detalje toliko jasno kao da gleda\u0161 u\u017eivo. Do\u017eivi \u017eivopisnije iskustvo gledanja. Kvalitet slike koji \u0107e te odu\u0161eviti, a koji omogu\u0107ava jedan \u010dip koji upravlja bojom, optimizuje kontrast i kontroli\u0161e HDR.Tako si blizu\u2026 kao nikad pre. Kada je ekran tako veliki, pred o\u010dima ti o\u017eivljava jo\u0161 vi\u0161e detalja. Do\u017eive\u0107e\u0161 na novi na\u010din svaki sekund utakmice, oseti\u0107e\u0161 svaku eksploziju i bi\u0107e\u0161 usred svake akcije. Na ve\u0107em ekranu sve je realnije. ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/152/26/152263_5ebd00d2aa2de.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/152/26/152263_5ebd00d2bbc9f.jpg"
     },
     {
         "EAN kod": "8606017160793",
@@ -1546,7 +1797,7 @@
         "Dimenzije": "Bez postolja 97 x 57 x 9 cm\r\nSa postoljem 97 x 61 x 20 cm",
         "cena": 27767,
         "naziv_proizvoda": "\nTelevizor Fox 43'' 43DLE462, Full HD\n\n\n\nSKU: 102673\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "FOX",
         "opis": "\nTelevizor Fox\u00a0 43DLE462 omogu\u0107uje jasan prikaz omiljenih sadr\u017eaja zahvaljuju\u0107i visokoj tehnologiji izrade panela, kombinuju\u0107i kvalitet komponenti sa modernim dizajnom. Model odlikuje mno\u0161tvo priklju\u010daka tako da ga mo\u017eete jednostavno povezati sa laptop ure\u0111ajem. ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/102/67/102673_5e78bc85184ef.jpg"
     },
@@ -1568,7 +1819,7 @@
         "Dimenzije": "Dimenzije bez postolja 732,6 x 436 x 77,3 mm (\u0160xVxD)\r\nDimenzije sa postoljem 732,6 x 455,2 x 166,2 mm (\u0160xVxD)",
         "cena": 19990,
         "naziv_proizvoda": "\nTelevizor Philips  32PHS4503/12, HD ready\n\n\n\nSKU: 133736\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "PHILIPS",
         "opis": "\nTelevizor Philips 32PHS4503/12, HD ready ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/133/73/133736_5ea157bf27b3a.jpg"
     },
@@ -1590,7 +1841,7 @@
         "Masa": "6,5 kg",
         "cena": 29990,
         "naziv_proizvoda": "\nTelevizor Smart\u00a0Vox\u00a043ADS553B Full HD,\u00a0WiFi\n\n\n\nSKU: 137504\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "VOX",
         "opis": "\n43\"\u00a0Smart\u00a0Vox\u00a043ADS553B Full HD,\u00a0Direct LED ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/137/50/137504_5e78b8e99afe7.jpg"
     },
@@ -1614,7 +1865,7 @@
         "Dimenzije": "Sa postoljem: 88 cm x 55 cm x 27 cm\r\nBez postolja: 88 cm x 51 cm x 9 cm",
         "cena": 21990,
         "naziv_proizvoda": "\nTV 39\"  FOX  39DLE462  Full HD\n\n\n\nSKU: 151047\n",
-        "proizvodjac": "",
+        "proizvodjac": "FOX",
         "opis": "\n39DLE462 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/151/04/151047_5ea6b8cd2d7af.jpg"
     },
@@ -1634,15 +1885,16 @@
         "Dimenzije": "889 x 575 x 244",
         "cena": 19990,
         "naziv_proizvoda": "\nTV 39\" LED Vox 39DSA662B, Full HD\n\n\n\nSKU: 142256\n",
-        "proizvodjac": "IDK",
-        "opis": "\nVOX \u00a039DSA662B\u00a0 "
+        "proizvodjac": "VOX",
+        "opis": "\nVOX \u00a039DSA662B\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/05/8620584.jpg"
     },
     {
         "EAN kod": "8606019603236",
         "Model": "43DSA311G",
         "cena": 23990,
         "naziv_proizvoda": "\nTV 43\" Vox 43DSA311G,1920x1080 (Full HD), HDMI, USB, T2 tuner\n\n\n\nSKU: 130425\n",
-        "proizvodjac": "Vox",
+        "proizvodjac": "VOX",
         "opis": "\n43DSA311G ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/130/42/130425_5e90690a14556.jpg",
         "Dijagonala": 32
@@ -1670,7 +1922,7 @@
         "cena": 59990,
         "naziv_proizvoda": "\nTV 50\" Smart LED SONY KDL50WF665BAEP ,1920x1080 (Full HD),WiFi, HDMI, USB,T2\n\n\n\nSKU: 140262\n",
         "proizvodjac": "SONY",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/02/8620228.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/02/8620228-1.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/02/8620228-2.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/02/8620228.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/02/8620228-1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/862/02/8620228-2.jpg"
     },
     {
         "EAN kod": "8718863018781",
@@ -1690,15 +1942,16 @@
         "Dimenzije": "Sa postoljem: 1242,8 mm x 740,9 mm x 244,7 mm\r\nBez postolja: 1242,8 mm x 722,8 mm x 91,8 mm",
         "cena": 54990,
         "naziv_proizvoda": "\nTV 55'' Philips 55PUS6554/12 3840 x 2160\n\n\n\nSKU: 149563\n",
-        "proizvodjac": "IDK",
-        "opis": "\nPhilips Smart televizor 55PUS6554/12\u00a0 "
+        "proizvodjac": "PHILIPS",
+        "opis": "\nPhilips Smart televizor 55PUS6554/12\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/149/56/149563_5ea1780af38dd.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/149/56/149563_5ea1780b1bc77.jpg"
     },
     {
         "EAN kod": "8801643884963",
         "Model": "QE65Q65RATXXH",
         "cena": 299990,
         "naziv_proizvoda": "\nTV 82\" Smart LED Samsung UE82RU8002, 3840x2160 (Ultra HD), WiFi, HDMI, USB, T2\n\n\n\nSKU: 140240\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nQE65Q65RATXXH\u00a0 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/24/140240_5eaaa4df6fe09.jpg",
         "Dijagonala": 32
@@ -1721,7 +1974,7 @@
         "Dimenzije": "Sa postoljem: 724,3 mm x 178,8 mm x 480,4 mm\r\nBez postolja: 724,3 x 87,8 x 425 mm",
         "cena": 13990,
         "naziv_proizvoda": "\nTV Alpha 31,5\"  32G7NH, 1366 x 768\n\n\n\nSKU: 143263\n",
-        "proizvodjac": "",
+        "proizvodjac": "ALPHA",
         "opis": "\n32G7NH\u00a0 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/26/143263_5ebbf66e41c0a.jpg"
     },
@@ -1742,7 +1995,7 @@
         "Dimenzije": "Sa postoljem: 91 cm x 61 cm x 25 cm\r\nBez postolja: 97 cm x 56 x 8,5 cm",
         "cena": 23990,
         "naziv_proizvoda": "\nTV FOX  43\" 43DLE662 1920 x 1080\n\n\n\nSKU: 150536\n",
-        "proizvodjac": "43\"",
+        "proizvodjac": "FOX",
         "opis": "\n43DLE662\u00a0 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/150/53/150536_5eafcd8656c46.jpg"
     },
@@ -1767,7 +2020,7 @@
         "Dimenzije": "Sa postoljem: 113 cm x 69 cm x 29 cm\r\nBez postolja: 113 cm x 65 cm x 9 cm",
         "cena": 29990,
         "naziv_proizvoda": "\nTV Fox 50DLE462 50\" 1920 x 1080 Direct LED\n\n\n\nSKU: 145373\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "FOX",
         "opis": "\nFOX LED TV 50DLE462 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/145/37/145373_5ea159c110c95.jpg"
     },
@@ -1791,8 +2044,9 @@
         "Dimenzije": "Dimenzije bez postolja: \r\n1096 x 638 x 62.5 mm (\u0160xVxD)\r\nDimenzije sa postoljem: \r\n1096 x 712 x 263.1 mm (\u0160xVxD)",
         "cena": 104990,
         "naziv_proizvoda": "\nTV LG Smart 49SM9000PLA.AEU 3840 x 2160 Nano Cell\n\n\n\nSKU: 140419\n",
-        "proizvodjac": "IDK",
-        "opis": "\nLG 49SM9000PLA.AEU  "
+        "proizvodjac": "LG",
+        "opis": "\nLG 49SM9000PLA.AEU  ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/41/140419_5ea02f7ae14a4.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/41/140419_5ea02f79254fc.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/41/140419_5ea02f7bda489.jpg"
     },
     {
         "EAN kod": "8806098385638",
@@ -1810,8 +2064,9 @@
         "DVB-T2": "da",
         "cena": 174990,
         "naziv_proizvoda": "\nTV LG Smart 55\"  OLED55B9PLA, 3840 x 2160\n\n\n\nSKU: 142302\n",
-        "proizvodjac": "IDK",
-        "opis": "\nLG Smart televizor OLED55B9PLA\u00a0 "
+        "proizvodjac": "LG",
+        "opis": "\nLG Smart televizor OLED55B9PLA\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/30/142302_5ebba3c37a0dc.jpg"
     },
     {
         "EAN kod": "8718863018767",
@@ -1833,9 +2088,9 @@
         "Dodatne prednosti": "Pauziranje TV programa\r\nUSB snimanje",
         "cena": 42990,
         "naziv_proizvoda": "\nTV Philips Smart 43PUS6554/12  43'' 4K Ultra HD\n\n\n\nSKU: 141977\n",
-        "proizvodjac": "Smart",
+        "proizvodjac": "PHILIPS",
         "opis": "\n43PUS6554/12  ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/97/141977_5ea02a0c7b8d5.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/97/141977_5ea02a0cb9f6a.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/97/141977_5ea02a0d3b621.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/97/141977_5ea02a0c7b8d5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/97/141977_5ea02a0cb9f6a.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/97/141977_5ea02a0d3b621.jpg"
     },
     {
         "EAN kod": "8801643813079",
@@ -1855,8 +2110,9 @@
         "Dimenzije": "Sa postoljem: 1237.2mm x 790.9 mm x 263.9 mm\r\nBez postolja: 1237.2 mm x 713.5 mm x 58.7 mm",
         "cena": 109990,
         "naziv_proizvoda": "\nTV Samsung  55\"  Smart  QE55Q65RATXXH, UHD\n\n\n\nSKU: 139948\n",
-        "proizvodjac": "",
-        "opis": "\nQE55Q65RATXXH "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nQE55Q65RATXXH ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/94/139948_5eb9473174962.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/94/139948_5eb947323314d.jpg"
     },
     {
         "EAN kod": "8801643784294",
@@ -1877,9 +2133,9 @@
         "Dimenzije": "Sa postoljem: 1124,8 x 735,8 x 346,7 mm\r\nBez postolja: 1124,8 x 650,2 x 59 mm",
         "cena": 69990,
         "naziv_proizvoda": "\nTV Samsung 50\"  UE50RU7452UXXH 3840 x 2160\n\n\n\nSKU: 140238\n",
-        "proizvodjac": "",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nUE50RU7452UXXH\u00a0 ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/23/140238_5ea17b576659d.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/23/140238_5ea17b57c5284.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/23/140238_5ea17b576659d.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/23/140238_5ea17b57c5284.jpg"
     },
     {
         "EAN kod": "8801643611194",
@@ -1898,9 +2154,9 @@
         "Dimenzije": "Sa postoljem: 1231,2 mm x 796,7 mm x 235,3 mm\r\nBez postolja: 1231,2 x 708,1 mm x 39,9 mm",
         "cena": 249990,
         "naziv_proizvoda": "\nTV Samsung QLED Smart 55\"  QE55Q90RATXXH 3840 x 2160\n\n\n\nSKU: 143058\n",
-        "proizvodjac": "",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nQE55Q90RATXXH ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143058_5eaaab8b49941.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143058_5eaaab8ae7f6f.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143058_5eaaab8b03740.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143058_5eaaab8b49941.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143058_5eaaab8ae7f6f.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143058_5eaaab8b03740.jpg"
     },
     {
         "EAN kod": "8806090034305",
@@ -1920,7 +2176,7 @@
         "Dimenzije": "Bez postolja: 1238,6 mm x 714,2 mm x 58,7 mm\r\nSa postoljem: 1238,6 mm x 758,2 mm x 242,1 mm\r\nPostolje: 1010,3 mm x 242,1 mm",
         "cena": 69990,
         "naziv_proizvoda": "\nTV Samsung Samsung  55\" UE55RU7022KXXH  3840 x 2160\n\n\n\nSKU: 142246\n",
-        "proizvodjac": "55\"",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nUE55RU7022KXXH  ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/24/142246_5ea1772c876cf.jpg"
     },
@@ -1941,7 +2197,7 @@
         "Dimenzije": "Bez postolja: 1235 mm x 707,8 mm x 42,5 mm\r\nSa postoljem: 1235 mm x 750,7 mm x 200 mm",
         "cena": 149990,
         "naziv_proizvoda": "\nTV Samsung Smart 55\"  QE55LS03RAUXXH 3840 x 2160\n\n\n\nSKU: 141950\n",
-        "proizvodjac": "",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nQE55LS03RAUXXH\u00a0 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/95/141950_5eaab243ef72c.jpg"
     },
@@ -1963,24 +2219,9 @@
         "Dimenzije": "Sa postoljem: 1233,3 mm x 777,6 mm x 220,6 mm\r\nBez postolja: 1233,3 mm x 713,3 mm x 34,9 mm",
         "cena": 399990,
         "naziv_proizvoda": "\nTV Samsung Smart 55\" QE55Q950RBTXXH\n\n\n\nSKU: 149501\n",
-        "proizvodjac": "IDK",
-        "opis": "\nSamsung Smart televizor QE55Q950RBTXXH "
-    },
-    {
-        "EAN kod": "8801643884925",
-        "Model": "UE65RU8002UXXH",
-        "Dijagonala": 65,
-        "Rezolucija": "3840 x 2160",
-        "SMART": "DA",
-        "Energetski razred": "A+",
-        "Povezivanje": "4 HDMI, 3 USB\r\nEternet (LAN)\r\nDigitalni Audio izlaz (opti\u010dki)\r\nRF ulaz\r\nCI otvor\r\nHDMI Quick Switch",
-        "DVB-C": "DA",
-        "DVB-T2": "DA",
-        "Zvu\u010dnici": "20 W",
-        "cena": 149990,
-        "naziv_proizvoda": "\nTV Samsung Smart 65\"  UE65RU8002UXXH 3840 x 2160\n\n\n\nSKU: 141863\n",
-        "proizvodjac": "",
-        "opis": "\nUE65RU8002UXXH\u00a0 "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nSamsung Smart televizor QE55Q950RBTXXH ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/149/50/149501_5eaaada6967f8.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/149/50/149501_5eaaada6de78b.jpg"
     },
     {
         "EAN kod": "6942147450208",
@@ -2000,8 +2241,9 @@
         "Dimenzije": "Sa postoljem: 96,9 cm \u00d7 18,6 cm \u00d7 60,7 cm\r\nBez postolja: 96,9 cm \u00d7 56,4 cm \u00d7 8,5 cm",
         "cena": 42990,
         "naziv_proizvoda": "\nTV Smart 43'' Hisense  H43B7300 Ultra HD\n\n\n\nSKU: 143628\n",
-        "proizvodjac": "",
-        "opis": "\nH43B7300\u00a0 "
+        "proizvodjac": "HISENSE",
+        "opis": "\nH43B7300\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/62/143628_5ea93be476e6f.jpg"
     },
     {
         "EAN kod": "8801643796785",
@@ -2020,9 +2262,9 @@
         "Dimenzije": "Dimenzije kompleta sa postoljem: 1101,4 mm x 715,7 mm x 263,9 mm\r\nDimenzije kompleta bez postolja: 1101,4 mm x 637,1 mm x 59,2 mm",
         "cena": 99990,
         "naziv_proizvoda": "\nTV Smart 49'' Samsung QE49Q65RATXXH 3840 x 2160\n\n\n\nSKU: 139082\n",
-        "proizvodjac": "Samsung",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nQE49Q65RATXXH ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139082_5ea18154727bd.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139082_5ea181549189f.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139082_5ea18154727bd.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139082_5ea181549189f.jpg"
     },
     {
         "EAN kod": "6942147450192",
@@ -2041,8 +2283,9 @@
         "Dimenzije": "Sa postoljem: 112,7 cm \u00d7 23,4 cm \u00d7 70,5 cm\r\nBez postolja: 112,7 cm \u00d7 65,6 cm \u00d7 8,6 cm",
         "cena": 47990,
         "naziv_proizvoda": "\nTV Smart 50\"  LED Hisense H50B7300  4K\n\n\n\nSKU: 143629\n",
-        "proizvodjac": "Hisense",
-        "opis": "\nSavr\u0161en prikaz uz mno\u0161tvo detalja "
+        "proizvodjac": "HISENSE",
+        "opis": "\nSavr\u0161en prikaz uz mno\u0161tvo detalja ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/62/143629_5eaaaa72f0abf.jpg"
     },
     {
         "EAN kod": "8801643645700",
@@ -2065,8 +2308,9 @@
         "Dimenzije": "Dimenzije kompleta sa postoljem (\u0160xVxD): 1230.6 x 791.9 x 230.8 mm\r\nDimenzije kompleta bez postolja (\u0160xVxD): 1230.6 x 708.1 x 61.9 mm",
         "cena": 189990,
         "naziv_proizvoda": "\nTV Smart 55\"  QE55Q85RATXXH  3,840 x 2,160\n\n\n\nSKU: 139083\n",
-        "proizvodjac": "",
-        "opis": "\nQE55Q85RATXXH  "
+        "proizvodjac": "IDK",
+        "opis": "\nQE55Q85RATXXH  ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139083_5ea1852b0ea5e.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139083_5ea1852ba0669.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/139/08/139083_5ea185307fc1c.jpg"
     },
     {
         "EAN kod": "6942147450147",
@@ -2088,9 +2332,9 @@
         "Dimenzije": "1.230mm x 713mm x 70mm",
         "cena": 65990,
         "naziv_proizvoda": "\nTV Smart 55\" Hisense H55B7500 4K Ultra HD DVB-T2\n\n\n\nSKU: 143633\n",
-        "proizvodjac": "Hisense",
+        "proizvodjac": "HISENSE",
         "opis": "\nKristalno jasan 4k prikaz uz mno\u0161tvo detalja ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143633_5eb2a1b791b67.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143633_5eb2a1c000a6f.png"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143633_5eb2a1b791b67.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143633_5eb2a1c000a6f.png"
     },
     {
         "EAN kod": "6942147450178",
@@ -2110,7 +2354,7 @@
         "Dimenzije": "Sa postoljem: 145,9 cm \u00d7 18,6 cm \u00d7 90,4 cm\r\nBez postolja: 124,2 cm \u00d7 72,1 cm \u00d7 8,1 cm",
         "cena": 79990,
         "naziv_proizvoda": "\nTV Smart 65\" Hisense H65B7300  DLED\n\n\n\nSKU: 143631\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "HISENSE",
         "opis": "\nHisense Smart televizor H65B7300\u00a0 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143631_5eaaae6554a80.jpg"
     },
@@ -2132,8 +2376,9 @@
         "Dimenzije": "Bez postolja: 1457,5 mm x 837,3 mm x 59,1 mm\r\nSa postoljem: 1457,5 mm x 888,1 mm x 317,3 mm\r\nPostolje: 1157,4 mm x 317,3 mm",
         "cena": 99990,
         "naziv_proizvoda": "\nTV Smart 65\" Samsung UE65RU7022KXXH 4K Ultra HD\n\n\n\nSKU: 142243\n",
-        "proizvodjac": "Samsung",
-        "opis": "\nUE65RU7022KXXH  "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nUE65RU7022KXXH  ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/24/142243_5ea18671ea1ac.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/24/142243_5ea186732c691.jpg"
     },
     {
         "EAN kod": "8806098550340",
@@ -2151,8 +2396,9 @@
         "Zvu\u010dnici": "Izlazna snaga: 20 W",
         "cena": 94990,
         "naziv_proizvoda": "\nTV Smart 65'' 65UM7100PLA 3840 x 2160\n\n\n\nSKU: 142303\n",
-        "proizvodjac": "65''",
-        "opis": "\n65UM7100PLA "
+        "proizvodjac": "IDK",
+        "opis": "\n65UM7100PLA ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/30/142303_5ea18b1e4fdbb.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/30/142303_5ea18b1e2db9d.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/142/30/142303_5ea18b1dc48e8.jpg"
     },
     {
         "EAN kod": "8806098386161",
@@ -2170,8 +2416,9 @@
         "DVB-T2": "DA",
         "cena": 124990,
         "naziv_proizvoda": "\nTV Smart 70'' 70UM7450PLA  ULTRA HD\n\n\n\nSKU: 140281\n",
-        "proizvodjac": "70''",
-        "opis": "\n70UM7450PLA  "
+        "proizvodjac": "IDK",
+        "opis": "\n70UM7450PLA  ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/28/140281_5ea18c99bd8e1.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/28/140281_5ea18c98c75f6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/28/140281_5ea18c9a012ca.jpg"
     },
     {
         "EAN kod": "6942147451564",
@@ -2194,9 +2441,9 @@
         "Dimenzije": "1.676mm x 965mm x 77mm",
         "cena": 149990,
         "naziv_proizvoda": "\nTV Smart 75\" Hisense H75B7510 4K\n\n\n\nSKU: 143635\n",
-        "proizvodjac": "Hisense",
+        "proizvodjac": "HISENSE",
         "opis": "\nTV Smart 75\" Hisense H75B7510 4K\u00a0 ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a43b589c5.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a43469f8b.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a437e8e65.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a43b37370.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a43b589c5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a43469f8b.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a437e8e65.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143635_5eb2a43b37370.jpg"
     },
     {
         "EAN kod": "6942147450185",
@@ -2212,8 +2459,9 @@
         "Dimenzije": "Sa postoljem: 124,2 cm \u00d7 23,5 cm \u00d7 76,8 cm\r\nBez postolja: 124,2 cm \u00d7 72,1 cm \u00d7 8,1 cm",
         "cena": 57990,
         "naziv_proizvoda": "\nTV Smart HISENSE 55\"  H55B7300\n\n\n\nSKU: 143630\n",
-        "proizvodjac": "",
-        "opis": "\nH55B7300\u00a0 "
+        "proizvodjac": "HISENSE",
+        "opis": "\nH55B7300\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143630_5eaaa9b3a942b.jpg"
     },
     {
         "EAN kod": "6942147450123",
@@ -2223,9 +2471,9 @@
         "Ekran": "LED",
         "cena": 69990,
         "naziv_proizvoda": "\nTV Smart Hisense H50U7B 50\" 3840 x 2160\n\n\n\nSKU: 143636\n",
-        "proizvodjac": "Hisense",
+        "proizvodjac": "HISENSE",
         "opis": "\nU\u017eivajte u prikazu punom detalja uz najnoviji\u00a0Hisense H50U7B ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143636_5eb2a08950490.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143636_5eb2a066cded0.png",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143636_5eb2a08950490.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/63/143636_5eb2a066cded0.png",
         "Dijagonala": 32
     },
     {
@@ -2249,7 +2497,7 @@
         "naziv_proizvoda": "\nTV Smart LG 49UM7390PLC.AEU 49\"  3840 x 2160\n\n\n\nSKU: 140133\n",
         "proizvodjac": "LG",
         "opis": "\n49UM7390PLC.AEU  ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/13/140133_5ea032381bca0.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/13/140133_5ea03237507bc.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/13/140133_5ea0323678068.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/13/140133_5ea032381bca0.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/13/140133_5ea03237507bc.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/13/140133_5ea0323678068.jpg"
     },
     {
         "EAN kod": "8806098387885",
@@ -2270,7 +2518,8 @@
         "cena": 69990,
         "naziv_proizvoda": "\nTV Smart LG 50UM7600PLB.AEU 50\" 840 x 2160\n\n\n\nSKU: 140273\n",
         "proizvodjac": "LG",
-        "opis": "\n50UM7600PLB.AEU "
+        "opis": "\n50UM7600PLB.AEU ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/27/140273_5ea0384e7081a.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/27/140273_5ea0384d39bb5.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/27/140273_5ea0384af1431.jpg"
     },
     {
         "EAN kod": "8806098341429",
@@ -2288,9 +2537,9 @@
         "Zvu\u010dnici": "Sistem: 2.0 ch\r\n20 W",
         "cena": 129990,
         "naziv_proizvoda": "\nTV Smart LG 70\" 70UM7100 Ultra HD\n\n\n\nSKU: 143401\n",
-        "proizvodjac": "70\"",
+        "proizvodjac": "LG",
         "opis": "\n70UM7100  ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/40/143401_5ea18be9c5379.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/40/143401_5ea18be95f350.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/40/143401_5ea18be996b71.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/40/143401_5ea18be9c5379.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/40/143401_5ea18be95f350.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/40/143401_5ea18be996b71.jpg"
     },
     {
         "EAN kod": "8801643753023",
@@ -2311,8 +2560,9 @@
         "Dimenzije": "Bez postolja: 1099,2 mm x 631,4 mm x 45,8 mm\r\nSa postoljem: 1099,2 mm x 674,3 mm x 200 mm",
         "cena": 129990,
         "naziv_proizvoda": "\nTV Smart Samsung Frame 49\" QE49LS03RAUXXH\n\n\n\nSKU: 141951\n",
-        "proizvodjac": "49\"",
-        "opis": "\nQE49LS03RAUXXH "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nQE49LS03RAUXXH ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/141/95/141951_5ea18d6a19d40.jpg"
     },
     {
         "EAN kod": "8801643715526",
@@ -2333,8 +2583,9 @@
         "Dimenzije": "Sa postoljem: 1675,2 mm x 1053,6 mm x 379,9 mm\r\nBez postolja: 1675,2 mm x 960,9 mm x 62 mm",
         "cena": 449990,
         "naziv_proizvoda": "\nTV Smart Samsung QLED  75\"  QE75Q85RATXXH\n\n\n\nSKU: 143053\n",
-        "proizvodjac": "",
-        "opis": "\nQE75Q85RATXXH\u00a0 "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nQE75Q85RATXXH\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143053_5eaab03512add.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/05/143053_5eaab03554c8b.jpg"
     },
     {
         "EAN kod": "8801643753443",
@@ -2353,9 +2604,9 @@
         "Dimenzije": "Sa postoljem: 1677,2 mm x 1024,9 mm x 337,5 mm\r\nBez postolja: 1677,2 mm x 964,6 mm x 34,6 mm",
         "cena": 699990,
         "naziv_proizvoda": "\nTV Smart Samsung QLED  75'' QE75Q950RBTXXH\n\n\n\nSKU: 143398\n",
-        "proizvodjac": "75''",
+        "proizvodjac": "SAMSUNG",
         "opis": "\nQE75Q950RBTXXH\u00a0 ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/39/143398_5eaaaf2a61684.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/39/143398_5eaaaf2aa9d09.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/39/143398_5eaaaf2a61684.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/143/39/143398_5eaaaf2aa9d09.jpg"
     },
     {
         "EAN kod": "8801643454753",
@@ -2376,8 +2627,9 @@
         "Dimenzije": "Sa postoljem: 190.5 x 115.5 x 39.8 cm\r\nBez postolja: 190.5 x 109.4 x 3.5 cm",
         "cena": 1499990,
         "naziv_proizvoda": "\nTV Smart televizor Samsung  QE85Q900RATXXH\n\n\n\nSKU: 135797\n",
-        "proizvodjac": "",
-        "opis": "\nQE85Q900RATXXH\u00a0 "
+        "proizvodjac": "SAMSUNG",
+        "opis": "\nQE85Q900RATXXH\u00a0 ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/135/79/135797_5eafce6c72aca.jpg"
     },
     {
         "EAN kod": "4548736095779",
@@ -2399,8 +2651,9 @@
         "Dimenzije": "Bez nosa\u010da: 110,1 cm x 64,5 cm x 5,7 cm\r\nSa nosa\u010dem: 110,1 cm x 70,4 cm x 26 cm",
         "cena": 63990,
         "naziv_proizvoda": "\nTV Sony 49'' KD49XG7077SAEP 3840 x 2160\n\n\n\nSKU: 140249\n",
-        "proizvodjac": "49''",
-        "opis": "\nKD49XG7077SAEP  "
+        "proizvodjac": "SONY",
+        "opis": "\nKD49XG7077SAEP  ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/24/140249_5ea179c4929b6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/24/140249_5ea179c503fa2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/24/140249_5ea179c52e643.jpg"
     },
     {
         "EAN kod": "4548736096264",
@@ -2419,8 +2672,9 @@
         "Dimenzije": "146,3 cm x 84,5 cm x 8 cm",
         "cena": 124990,
         "naziv_proizvoda": "\nTV Sony 65\" KD65XG8096BAEP, 3840 x 2160\n\n\n\nSKU: 140257\n",
-        "proizvodjac": "65\"",
-        "opis": "\nKD65XG8096BAEP "
+        "proizvodjac": "SONY",
+        "opis": "\nKD65XG8096BAEP ",
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140257_5eaab4c4161a2.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140257_5eaab4c351eb6.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/140/25/140257_5eaab4c484450.jpg"
     },
     {
         "EAN kod": "8606018854646",
@@ -2442,7 +2696,7 @@
         "Dimenzije": "Bez postolja: 732 mm x 435 mm x 77,8 mm\r\nSa postoljem: 732 mm x 477 mm x 180 mm",
         "cena": 15989,
         "naziv_proizvoda": "\nTV Tesla 32\"  32T303SH 1366 x 768\n\n\n\nSKU: 151048\n",
-        "proizvodjac": "",
+        "proizvodjac": "TESLA",
         "opis": "\n32T303SH\u00a0 ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/151/04/151048_5ea6b0a3af949.jpg"
     },
@@ -2466,9 +2720,9 @@
         "Dimenzije": "Bez postolja: 732 mm x 435 mm x 77,8 mm\r\nSa postoljem: 732 mm x 477 mm x 180 mm",
         "cena": 18990,
         "naziv_proizvoda": "\nTV Tesla Smart  32\"  32T303SHS\n\n\n\nSKU: 151049\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "TESLA",
         "opis": "\nSmart televizor 32T303SHS\u00a0 ",
-        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/151/04/151049_5ea6b068c5fac.jpg https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/151/04/151049_5ea6b0689053c.jpg"
+        "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/151/04/151049_5ea6b068c5fac.jpg, https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/151/04/151049_5ea6b0689053c.jpg"
     },
     {
         "EAN kod": "8606019602543",
@@ -2488,7 +2742,7 @@
         "Dimenzije": "Sa postoljem: 1241 mm x 778 mm x 270,4 mm\r\nBez postolja: 1241 mm x 720 mm x 88 mm",
         "cena": 44990,
         "naziv_proizvoda": "\nTV Vox Smart 55ADS314H 55\" 4K WiFi\n\n\n\nSKU: 150572\n",
-        "proizvodjac": "IDK",
+        "proizvodjac": "VOX",
         "opis": "\nVOX Smart televizor 55ADS314H  ",
         "slike": "https://www.emmi.rs/media/catalog/product/cache/4/image/400x400/ed7210a05cad24964301bb26b2e94731/150/57/150572_5ea15a12d0d9b.jpg"
     }
