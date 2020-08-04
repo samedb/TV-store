@@ -1,17 +1,18 @@
 ### Registration
-POST http://127.0.0.1:8000/auth/registration/ HTTP/1.1
+POST http://voyab.pythonanywhere.com/auth/registration/ HTTP/1.1
 Content-Type: application/json
 
 {
-    "username": "test3",
+    "first_name": "Samed",
+    "username": "test8",
     "password1": "test1234.",
     "password2": "test1234.",
-    "email": "test35@test.com"  
+    "email": "test85@test.com"  
 }
 
 ### Login
 POST http://voyab.pythonanywhere.com/auth/login/ HTTP/1.1
-# POST http://127.0.0.1:8000/auth/login/ HTTP/1.1
+# POST http://voyab.pythonanywhere.com/auth/login/ HTTP/1.1
 Content-Type: application/json
 
 {
@@ -20,17 +21,18 @@ Content-Type: application/json
 }
 
 ### Me
-GET http://127.0.0.1:8000/api/me/ HTTP/1.1
-Authorization: Token 5a489ed5e9209fe9070088dd477ae0567bc419c3
+GET http://voyab.pythonanywhere.com/api/me/ HTTP/1.1
+Authorization: Token c305dd6b580c94d63147a3844b983c7291159d5a
 
 ### Me PUT
-PUT http://127.0.0.1:8000/api/me/ HTTP/1.1
+PUT http://voyab.pythonanywhere.com/api/me/ HTTP/1.1
 Content-Type: application/json
-Authorization: Token 5a489ed5e9209fe9070088dd477ae0567bc419c3
+Authorization: Token c305dd6b580c94d63147a3844b983c7291159d5a
 
 {
+    "first_name": "Samed",
     "tip": "fizicko",
-    "pib": "234234234",
+    "pib": "2342342341",
     "maticni_broj_firme": "123123",
     "username": "test5"
 }
@@ -38,12 +40,12 @@ Authorization: Token 5a489ed5e9209fe9070088dd477ae0567bc419c3
 
 
 ### Ocena GET
-GET http://127.0.0.1:8000/api/ocena/8806098550340 HTTP/1.1
+GET http://voyab.pythonanywhere.com/api/ocena/8806098550340 HTTP/1.1
 Content-Type: application/json
 
 
 ### Ocena POST
-POST http://127.0.0.1:8000/api/ocena/ HTTP/1.1
+POST http://voyab.pythonanywhere.com/api/ocena/ HTTP/1.1
 Content-Type: application/json
 Authorization: Token 5a489ed5e9209fe9070088dd477ae0567bc419c3
 
@@ -54,16 +56,16 @@ Authorization: Token 5a489ed5e9209fe9070088dd477ae0567bc419c3
 }
 
 ### TV get
-GET http://127.0.0.1:8000/api/tv/ HTTP/1.1
+GET http://voyab.pythonanywhere.com/api/tv/ HTTP/1.1
 Content-Type: application/json
 
 ### GET poruzbinu
-GET http://127.0.0.1:8000/api/porudzbina/ HTTP/1.1
+GET http://voyab.pythonanywhere.com/api/porudzbina/ HTTP/1.1
 Content-Type: application/json
 Authorization: Token 5a489ed5e9209fe9070088dd477ae0567bc419c3
 
 ### Posalji poruzbinu
-POST http://127.0.0.1:8000/api/porudzbina/ HTTP/1.1
+POST http://voyab.pythonanywhere.com/api/porudzbina/ HTTP/1.1
 Content-Type: application/json
 Authorization: Token 5a489ed5e9209fe9070088dd477ae0567bc419c3
 
