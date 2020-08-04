@@ -8,9 +8,10 @@ class CustomUserSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 class OcenaSerializer(serializers.ModelSerializer):
+    korisnik_username = serializers.CharField(source="korisnik", read_only=True)
     class Meta: 
         model = Ocena
-        fields = "__all__"
+        fields = ("ocena", "komentar", "korisnik_username")
 
 class TVSerializer(serializers.ModelSerializer):
     class Meta:

@@ -71,14 +71,14 @@ class PorudzbineView(APIView):
             nacinPlacanja=request.data['nacinPlacanja'],
             korisnik=request.user,
         )
-        p.save()
+        p.save()  # TODO da izracunam sumu pa onda tek save da uradim, ide ispod ove for petlje
         for artikl in request.data['artikli']:
             naruceni_tv = TV.objects.get(pk=artikl['ean'])
             a = NaruceniArtikl(
                 id_porudzbine=p,
                 ean=naruceni_tv,
                 kolicina=artikl['kolicina'],
-                cena=naruceni_tv.cena
+                cena=naruceni_tv.cena # TODO da uracunam popust
             )
             a.save()
         return Response("Uspesno unesena porudzbina!")
