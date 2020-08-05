@@ -57,6 +57,10 @@ class Ocena(models.Model):
 
 class Porudzbina(models.Model):
     korisnik = models.ForeignKey(CustomUser, on_delete=models.CASCADE)
+    tip = models.CharField(max_length=20, default="fizicko")  # pravno ili fizicko lice
+    naziv_firme = models.CharField(max_length=100, default="")
+    pib = models.CharField(max_length=20, default="")
+    maticni_broj_firme = models.CharField(max_length=20, default="")
     ulica = models.CharField(max_length=50)
     broj = models.CharField(max_length=10)
     grad = models.CharField(max_length=50)
