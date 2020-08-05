@@ -61,6 +61,16 @@ class PorudzbineView(APIView):
 
     # Dodaj novu porudzbinu
     def post(self, request):
+        # Izracunaj sumu svih artikala i uzmi u obzir popust
+        ukupna_cena = 0
+        for artikl in request.data['artikli']:
+            naruceni_tv = TV.objects.get(pk=artikl['ean'])
+            if naruceni_tv.cena_na_popustu == 0:
+                ukupna_cena += naruceni_tv.cena
+            else:
+                ukupna_cena += naruceni_tv.cena_na_popustu
+
+        # Kreiraj novu poruzbinu i zapamti je u bazi
         p = Porudzbina(
             ulica=request.data['ulica'],
             broj=request.data['broj'],
@@ -70,15 +80,23 @@ class PorudzbineView(APIView):
             datumPorudzbine=request.data['datumPorudzbine'],
             nacinPlacanja=request.data['nacinPlacanja'],
             korisnik=request.user,
+            ukupna_cena=ukupna_cena,
         )
-        p.save()  # TODO da izracunam sumu pa onda tek save da uradim, ide ispod ove for petlje
+        p.save()  
+
+        # Zapamti sve artikle u bazi
         for artikl in request.data['artikli']:
             naruceni_tv = TV.objects.get(pk=artikl['ean'])
+            cena_koju_racunamo = 0
+            if naruceni_tv.cena_na_popustu == 0:
+                cena_koju_racunamo = naruceni_tv.cena
+            else:
+                cena_koju_racunamo = naruceni_tv.cena_na_popustu
             a = NaruceniArtikl(
                 id_porudzbine=p,
                 ean=naruceni_tv,
                 kolicina=artikl['kolicina'],
-                cena=naruceni_tv.cena # TODO da uracunam popust
+                cena=cena_koju_racunamo
             )
             a.save()
         return Response("Uspesno unesena porudzbina!")

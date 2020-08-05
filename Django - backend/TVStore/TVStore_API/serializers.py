@@ -27,6 +27,6 @@ class PorudzbinaSerializer(serializers.ModelSerializer):
     naruceniartikl_set = NaruceniArtiklSerializer(read_only=True, many=True)
     class Meta:
         model = Porudzbina
-        fields = ("ulica", "broj", "grad", "postanski_broj", "telefon", "datumPorudzbine", "zavrsenaPoruzbina", "nacinPlacanja", "naruceniartikl_set")
+        fields = ("ulica", "broj", "grad", "postanski_broj", "telefon", "datumPorudzbine", "zavrsenaPoruzbina", "nacinPlacanja", "ukupna_cena", "naruceniartikl_set")
 
 
