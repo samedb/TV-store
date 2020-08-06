@@ -66,9 +66,9 @@ class PorudzbineView(APIView):
         for artikl in request.data['artikli']:
             naruceni_tv = TV.objects.get(pk=artikl['ean'])
             if naruceni_tv.cena_na_popustu == 0:
-                ukupna_cena += naruceni_tv.cena
+                ukupna_cena += naruceni_tv.cena * artikl['kolicina']
             else:
-                ukupna_cena += naruceni_tv.cena_na_popustu
+                ukupna_cena += naruceni_tv.cena_na_popustu * artikl['kolicina']
 
         # Kreiraj novu poruzbinu i zapamti je u bazi
         p = Porudzbina(
